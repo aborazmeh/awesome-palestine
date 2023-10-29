@@ -17,11 +17,11 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
     - [Zionism](#zionism)
       - [Non-Jewish Zionism](#non-jewish-zionism)
     - [Gaza](#gaza)
-  - [Websites](#websites)
-    - [News](#news)
-    - [Open-Source Intelligence](#open-source-intelligence)
-    - [Donations](#donations)
-    - [Misc](#misc)
+  - [Media](#media)
+  - [War Supporting Companies](#war-supporting-companies)
+  - [Open-Source Intelligence](#open-source-intelligence)
+  - [Activists \& Journalists](#activists--journalists)
+  - [Donations](#donations)
 
 ## Documents & Reports
 
@@ -62,27 +62,30 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📚 [The Biggest Prison on Earth: A History of the Occupied Territories, Ilan Pappé (2016)](https://www.goodreads.com/book/show/2856775)
 * 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
 
-## Websites
+## Media
 
-### News
-
-* 🌐 [AlJazeera](https://www.aljazeera.com/)
+* 🌐 [Al Jazeera](https://www.aljazeera.com/)
+* 🌐 [Democracy Now!](https://democracynow.org/)
 * 🌐 [Mondoweiss](https://mondoweiss.net/)
 * 🌐 [The Electronic Intifada](https://electronicintifada.net/)
-* 🌐 [+972](https://www.972mag.com/)
+* 🌐 [+972 Magazine](https://www.972mag.com/)
 * 🌐 [Haaretz](https://www.haaretz.co.il/)
+* 🌐 [If Americans Knew](https://ifamericansknew.org/)
 
-### Open-Source Intelligence
+## War Supporting Companies
+
+* 🌐 [Boycott companies supporting war](https://boycott.thewitness.news/) | ![](images/telegram.svg) [@savegazabot](@savegazabot)
+* 🌐 [bdnaash](https://bdnaash.com/)
+
+## Open-Source Intelligence
 
 * 𝕏 [Eekad](https://twitter.com/EekadFacts) | ![](images/youtube.svg) [Eekad]()
 * 𝕏 [Sulaiman Ahmed](https://twitter.com/ShaykhSulaiman)
 
-### Donations
+## Activists & Journalists
+
+* ![](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza/)
+
+## Donations
 
 * 🌐 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
-
-### Misc
-
-* 🌐 [If Americans Knew](https://ifamericansknew.org/)
-* 🌐 [Boycott companies supporting war](https://boycott.thewitness.news/)
-* 🌐 [bdnaash](https://bdnaash.com/)
