@@ -75,6 +75,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 ## Open-Source Intelligence
 
 * 𝕏 [Eekad](https://twitter.com/EekadFacts)
+* 𝕏 [Sulaiman Ahmed](https://twitter.com/ShaykhSulaiman)
 
 ## Donations
 
