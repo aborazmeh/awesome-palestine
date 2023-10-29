@@ -17,6 +17,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
     - [Zionism](#zionism)
       - [Non-Jewish Zionism](#non-jewish-zionism)
     - [Gaza](#gaza)
+  - [Movies](#movies)
   - [Media](#media)
   - [War Supporting Companies](#war-supporting-companies)
   - [Open-Source Intelligence](#open-source-intelligence)
@@ -61,6 +62,11 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📚 [Gaza: An Inquest into Its Martyrdom, Norman G. Finkelstein (2018)](https://www.goodreads.com/book/show/35070437)
 * 📚 [The Biggest Prison on Earth: A History of the Occupied Territories, Ilan Pappé (2016)](https://www.goodreads.com/book/show/2856775)
 * 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
+
+## Movies
+
+- 🎥 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
+- 🎥 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
 
 ## Media
 
