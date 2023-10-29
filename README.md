@@ -1,4 +1,4 @@
-# Awesome Palestine
+# Awesome Palestine 🇵🇸
 
 A curated list of Palestine and Palestinian-Israeli conflict resources.
 
@@ -6,7 +6,7 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
 
 <!-- toc -->
 
-- [Awesome Palestine](#awesome-palestine)
+- [Awesome Palestine 🇵🇸](#awesome-palestine-)
   - [Table of contents](#table-of-contents)
   - [Books](#books)
     - [History](#history)
