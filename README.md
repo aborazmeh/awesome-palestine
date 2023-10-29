@@ -4,8 +4,6 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
 
 ## Table of contents
 
-<!-- toc -->
-
 - [Awesome Palestine 🇵🇸](#awesome-palestine-)
   - [Table of contents](#table-of-contents)
   - [Documents \& Reports](#documents--reports)
@@ -18,11 +16,9 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
     - [Gaza](#gaza)
   - [Websites](#websites)
 
-<!-- tocstop -->
-
 ## Documents & Reports
 
-* 📄 [Detailed list of all civilian causalities between 7-26 October](https://www.aljazeera.net/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-2.pdf)
+* 📄 [Detailed list of the civilian causalities between 7-26 October](https://www.aljazeera.net/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-2.pdf)
 
 ## Books
 
