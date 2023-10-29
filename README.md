@@ -18,6 +18,10 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
       - [Non-Jewish Zionism](#non-jewish-zionism)
     - [Gaza](#gaza)
   - [Websites](#websites)
+    - [News](#news)
+  - [Open-Source Intelligence](#open-source-intelligence)
+  - [Donations](#donations)
+  - [Misc](#misc)
 
 ## Documents & Reports
 
@@ -59,11 +63,25 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
 
 ## Websites
+
+### News
+
 * 🌐 [AlJazeera](https://www.aljazeera.com/)
 * 🌐 [Mondoweiss](https://mondoweiss.net/)
 * 🌐 [The Electronic Intifada](https://electronicintifada.net/)
 * 🌐 [+972](https://www.972mag.com/)
 * 🌐 [Haaretz](https://www.haaretz.co.il/)
+
+## Open-Source Intelligence
+
+* 𝕏 [Eekad](https://twitter.com/EekadFacts)
+
+## Donations
+
+* 🌐 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
+
+## Misc
+
 * 🌐 [If Americans Knew](https://ifamericansknew.org/)
 * 🌐 [Boycott companies supporting war](https://boycott.thewitness.news/)
 * 🌐 [bdnaash](https://bdnaash.com/)
