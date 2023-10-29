@@ -15,6 +15,7 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
     - [Zionism](#zionism)
       - [Non-Jewish Zionism](#non-jewish-zionism)
     - [Gaza](#gaza)
+  - [Websites](#websites)
 
 <!-- tocstop -->
 
@@ -52,3 +53,8 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
 * 📚 [Gaza: An Inquest into Its Martyrdom, Norman G. Finkelstein (2018)](https://www.goodreads.com/book/show/35070437)
 * 📚 [The Biggest Prison on Earth: A History of the Occupied Territories, Ilan Pappé (2016)](https://www.goodreads.com/book/show/2856775)
 * 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
+
+## Websites
+
+* [Boycott companies supporting war](https://boycott.thewitness.news/)
+* [bdnaash](https://bdnaash.com/)
