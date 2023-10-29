@@ -19,9 +19,9 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
     - [Gaza](#gaza)
   - [Websites](#websites)
     - [News](#news)
-  - [Open-Source Intelligence](#open-source-intelligence)
-  - [Donations](#donations)
-  - [Misc](#misc)
+    - [Open-Source Intelligence](#open-source-intelligence)
+    - [Donations](#donations)
+    - [Misc](#misc)
 
 ## Documents & Reports
 
@@ -72,16 +72,16 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🌐 [+972](https://www.972mag.com/)
 * 🌐 [Haaretz](https://www.haaretz.co.il/)
 
-## Open-Source Intelligence
+### Open-Source Intelligence
 
 * 𝕏 [Eekad](https://twitter.com/EekadFacts)
 * 𝕏 [Sulaiman Ahmed](https://twitter.com/ShaykhSulaiman)
 
-## Donations
+### Donations
 
 * 🌐 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
 
-## Misc
+### Misc
 
 * 🌐 [If Americans Knew](https://ifamericansknew.org/)
 * 🌐 [Boycott companies supporting war](https://boycott.thewitness.news/)
