@@ -56,5 +56,5 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
 
 ## Websites
 
-* [Boycott companies supporting war](https://boycott.thewitness.news/)
-* [bdnaash](https://bdnaash.com/)
+* 🌐 [Boycott companies supporting war](https://boycott.thewitness.news/)
+* 🌐 [bdnaash](https://bdnaash.com/)
