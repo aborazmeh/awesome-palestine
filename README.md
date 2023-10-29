@@ -59,6 +59,11 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
 
 ## Websites
-
+* 🌐 [AlJazeera](https://www.aljazeera.com/)
+* 🌐 [Mondoweiss](https://mondoweiss.net/)
+* 🌐 [The Electronic Intifada]https://electronicintifada.net/
+* 🌐 [+972](https://www.972mag.com/)
+* 🌐 [Haaretz](https://www.haaretz.co.il/)
+* 🌐 [If Americans Knew]https://ifamericansknew.org/
 * 🌐 [Boycott companies supporting war](https://boycott.thewitness.news/)
 * 🌐 [bdnaash](https://bdnaash.com/)
