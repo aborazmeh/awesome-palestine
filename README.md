@@ -2,6 +2,9 @@
 
 A curated list of Palestine and Palestinian-Israeli conflict resources.
 
+Want to contribute?
+Thanks. please refer to [this](CONTRIBUTING.md) first.
+
 ## Table of contents
 
 - [Awesome Palestine 🇵🇸](#awesome-palestine-)
