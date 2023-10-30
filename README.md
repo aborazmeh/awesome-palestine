@@ -76,15 +76,16 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 ## Media
 
-* 🌐 [Al Jazeera](https://www.aljazeera.com/)
+* 🌐 [Al Jazeera](https://www.aljazeera.com/) | ![](images/telegram.svg) [Al Jazeera Palestine](https://t.me/AJPalestine)
 * 🌐 [Middle East Eye](https://www.middleeasteye.net/)
-* 🌐 [Democracy Now!](https://democracynow.org/)
 * 🌐 [Mondoweiss](https://mondoweiss.net/)
 * 🌐 [The Electronic Intifada](https://electronicintifada.net/)
 * 🌐 [+972 Magazine](https://www.972mag.com/)
 * 🌐 [Haaretz](https://www.haaretz.co.il/)
-* 🌐 [If Americans Knew](https://ifamericansknew.org/)
+* 🌐 [Jadaliyya](https://www.jadaliyya.com/)
 * 🌐 [Shehab News](https://shehabnews.com/) | 𝕏 [Shehab News](https://twitter.com/ShehabAgency) | ![](images/telegram.svg) [Shehab News](https://t.me/ShehabTelegram) | ![](images/telegram.svg) [Shehab Breaking News](https://t.me/ShehabTelegram2)
+* 🌐 [Democracy Now!](https://democracynow.org/)
+* 🌐 [If Americans Knew](https://ifamericansknew.org/)
 
 ## War Supporting Companies
 
