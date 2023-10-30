@@ -17,6 +17,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
     - [Zionism](#zionism)
       - [Non-Jewish Zionism](#non-jewish-zionism)
     - [Gaza](#gaza)
+    - [Arabs of Israel (48-Palestinians)](#arabs-of-israel-48-palestinians)
   - [Movies](#movies)
   - [Media](#media)
   - [War Supporting Companies](#war-supporting-companies)
@@ -62,6 +63,10 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📚 [Gaza: An Inquest into Its Martyrdom, Norman G. Finkelstein (2018)](https://www.goodreads.com/book/show/35070437)
 * 📚 [The Biggest Prison on Earth: A History of the Occupied Territories, Ilan Pappé (2016)](https://www.goodreads.com/book/show/2856775)
 * 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
+
+### Arabs of Israel (48-Palestinians)
+
+* 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
 
 ## Movies
 
