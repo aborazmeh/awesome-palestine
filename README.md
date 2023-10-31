@@ -45,6 +45,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 ### Israel
 
 * 📚 [Ten Myths About Israel, Ilan Pappé (2017)](https://www.goodreads.com/book/show/31171856)
+* 📚 [Justice for Some, Noura Erakat](https://www.goodreads.com/book/show/43154949)
 * 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
 
 ### Zionism
