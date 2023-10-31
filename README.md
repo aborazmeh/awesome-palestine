@@ -70,28 +70,28 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 ## Movies
 
-- 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
-- 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
-- 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
+* 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
+* 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
+* 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
 
 ## Media
 
-* 🌐 [Al Jazeera](https://www.aljazeera.com/) | ![](images/telegram.svg) [Al Jazeera Palestine](https://t.me/AJPalestine)
-* 🌐 [Middle East Eye](https://www.middleeasteye.net/)
-* 🌐 [Mondoweiss](https://mondoweiss.net/)
-* 🌐 [The Electronic Intifada](https://electronicintifada.net/)
-* 🌐 [+972 Magazine](https://www.972mag.com/)
-* 🌐 [Haaretz](https://www.haaretz.co.il/)
-* 🌐 [Jadaliyya](https://www.jadaliyya.com/)
-* 🌐 [Eye on Palestine](https://www.eyeonpalestine.ps/) | ![](images/instagram.svg) [Eye on Palestine](https://www.instagram.com/eye.on.palestine)
-* 🌐 [Shehab News](https://shehabnews.com/) | 𝕏 [Shehab News](https://twitter.com/ShehabAgency) | ![](images/telegram.svg) [Shehab News](https://t.me/ShehabTelegram) | ![](images/telegram.svg) [Shehab Breaking News](https://t.me/ShehabTelegram2)
-* 🌐 [Democracy Now!](https://democracynow.org/)
-* 🌐 [If Americans Knew](https://ifamericansknew.org/)
+* 🌐 [Al Jazeera](https://www.aljazeera.com) | ![](images/telegram.svg) [Al Jazeera Palestine](https://t.me/AJPalestine)
+* 🌐 [Middle East Eye](https://www.middleeasteye.net)
+* 🌐 [Mondoweiss](https://mondoweiss.net)
+* 🌐 [The Electronic Intifada](https://electronicintifada.net)
+* 🌐 [+972 Magazine](https://www.972mag.com)
+* 🌐 [Haaretz](https://www.haaretz.co.il)
+* 🌐 [Jadaliyya](https://www.jadaliyya.com)
+* 🌐 [Eye on Palestine](https://www.eyeonpalestine.ps) | ![](images/instagram.svg) [Eye on Palestine](https://www.instagram.com/eye.on.palestine)
+* 🌐 [Shehab News](https://shehabnews.com) | 𝕏 [Shehab News](https://twitter.com/ShehabAgency) | ![](images/telegram.svg) [Shehab News](https://t.me/ShehabTelegram) | ![](images/telegram.svg) [Shehab Breaking News](https://t.me/ShehabTelegram2)
+* 🌐 [Democracy Now!](https://democracynow.org)
+* 🌐 [If Americans Knew](https://ifamericansknew.org)
 
 ## War Supporting Companies
 
-* 🌐 [Boycott war supporting companies](https://boycott.thewitness.news/) | ![](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
-* 🌐 [bdnaash](https://bdnaash.com/)
+* 🌐 [Boycott war supporting companies](https://boycott.thewitness.news) | ![](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
+* 🌐 [bdnaash](https://bdnaash.com)
 
 ## Open-Source Intelligence
 
@@ -100,7 +100,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 ## Activists & Journalists
 
-* ![](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza/)
+* ![](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
 
 ## Donations
 
