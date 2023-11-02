@@ -31,6 +31,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📄 [Detailed list of the civilian causalities between 7-26 October](https://www.aljazeera.net/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-2.pdf)
 * 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
 * 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
+* 📄 [Palestinian Return Centre](https://prc.org.uk)
 
 ## Books
 
