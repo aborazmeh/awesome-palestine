@@ -90,6 +90,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📄 [The Avalon Project - The Middle East 1916-2001: A Documentary Record](https://avalon.law.yale.edu/subject_menus/mideast.asp)
 * 📄 [The 1967 Census of the West Bank and Gaza Strip:A Digitized Version](https://www.levyinstitute.org/palestinian-census)
 * 🗃️ [Maps of Palestine before the Nakba](https://palmap.link)
+* 🗃️ [Palestine Remembered](https://palestineremembered.com)
 
 ## Movies
 
