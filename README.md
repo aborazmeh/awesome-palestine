@@ -18,6 +18,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
       - [Non-Jewish Zionism](#non-jewish-zionism)
     - [Gaza](#gaza)
     - [Arabs of Israel (48-Palestinians)](#arabs-of-israel-48-palestinians)
+  - [Archives](#archives)
   - [Movies](#movies)
   - [Media](#media)
   - [War Supporting Companies](#war-supporting-companies)
@@ -68,6 +69,16 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 ### Arabs of Israel (48-Palestinians)
 
 * 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
+
+## Archives
+
+* 🗃️ [The Palestinian Museum Digital Archive](https://palarchive.org)
+* 🗃️ [The Palestine Poster Project Archives](https://www.palestineposterproject.org)
+* 🗃️ [Nakba Archive](https://www.nakba-archive.org)
+* 🗃️ [Matson (G. Eric and Edith) Photograph Collection ](https://www.loc.gov/pictures/collection/matpc)
+* 🗃️ [UNRWA photo and film archive for Palestine refugees](https://www.unrwa.org/photo-and-film-archive)
+* 📄 [The Avalon Project - The Middle East 1916-2001: A Documentary Record](https://avalon.law.yale.edu/subject_menus/mideast.asp)
+* 📄 [The 1967 Census of the West Bank and Gaza Strip:A Digitized Version](https://www.levyinstitute.org/palestinian-census)
 
 ## Movies
 
