@@ -9,6 +9,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 - [Awesome Palestine 🇵🇸](#awesome-palestine-)
   - [Table of contents](#table-of-contents)
+  - [Official](#official)
   - [Documents \& Reports](#documents--reports)
   - [Books](#books)
     - [History](#history)
@@ -25,6 +26,11 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
   - [Open-Source Intelligence](#open-source-intelligence)
   - [Activists \& Journalists](#activists--journalists)
   - [Donations](#donations)
+
+## Official
+
+* 🏛️ [Palestinian Ministry of Health](http://moh.gov.ps)
+* 🏛️ [Palestinian Central Bureau of Statistics](https://www.pcbs.gov.ps)
 
 ## Documents & Reports
 
