@@ -77,6 +77,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🗃️ [Nakba Archive](https://www.nakba-archive.org)
 * 🗃️ [Matson (G. Eric and Edith) Photograph Collection ](https://www.loc.gov/pictures/collection/matpc)
 * 🗃️ [UNRWA photo and film archive for Palestine refugees](https://www.unrwa.org/photo-and-film-archive)
+* 🎵 [Palestinian Sound Archive](https://www.nts.live/shows/palestinian-sound-archive)
 * 📄 [The Avalon Project - The Middle East 1916-2001: A Documentary Record](https://avalon.law.yale.edu/subject_menus/mideast.asp)
 * 📄 [The 1967 Census of the West Bank and Gaza Strip:A Digitized Version](https://www.levyinstitute.org/palestinian-census)
 
