@@ -36,6 +36,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📄 [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine) | 📄 [Human Rights Watch - Reports](https://www.hrw.org/publications?country%5B0%5D=9638)
 * 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
 * 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
+* 📄 [Al-Haq](https://www.alhaq.org)
 * 📄 [Palestinian Return Centre](https://prc.org.uk)
 
 ## Books
@@ -96,7 +97,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 * 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
 * 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
-* 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance/) | ![](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
+* 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance) | ![](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
 * 🎬 [Five Broken Cameras (2011)](https://www.imdb.com/title/tt2125423) | ![](images/youtube.svg) [Five Broken Cameras (2011)](https://www.youtube.com/watch?v=SI37liwTIYI)
 * 🎬 ![](images/youtube.svg) [Al Nakba Documentary (multi-lingual)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847)
 * 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
