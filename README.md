@@ -38,6 +38,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
 * 📄 [Al-Haq](https://www.alhaq.org)
 * 📄 [Palestinian Return Centre](https://prc.org.uk)
+* 📄 [Madar Center](https://www.madarcenter.org)
 
 ## Books
 
