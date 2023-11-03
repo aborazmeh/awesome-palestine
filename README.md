@@ -91,6 +91,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📄 [The 1967 Census of the West Bank and Gaza Strip:A Digitized Version](https://www.levyinstitute.org/palestinian-census)
 * 🗃️ [Maps of Palestine before the Nakba](https://palmap.link)
 * 🗃️ [Palestine Remembered](https://palestineremembered.com)
+* 📸 [Hidden Palestine](https://hiddenpalestine.com)
 
 ## Movies
 
