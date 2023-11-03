@@ -129,6 +129,11 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 ## Activists & Journalists
 
+* 🌐 [The Institute for Middle East Understanding (IMEU)](https://imeu.org)
+* 🌐 [Adalah - The Legal Center for Arab Minority Rights in Israel](https://www.adalah.org/en)
+* 🌐 [Adalah Justice Project](https://www.adalahjusticeproject.org)
+* 🌐 [Palestinian Youth Movement](https://palestinianyouthmovement.com)
+* 🌐 [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org)
 * ![](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
 
 ## Donations
