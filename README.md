@@ -5,27 +5,25 @@ A curated list of Palestine and Palestinian-Israeli conflict resources.
 Want to contribute?
 Thanks. please refer to [this](CONTRIBUTING.md) first.
 
-## Table of contents
+## Table of Contents
 
-- [Awesome Palestine 🇵🇸](#awesome-palestine-)
-  - [Table of contents](#table-of-contents)
-  - [Official](#official)
-  - [Documents \& Reports](#documents--reports)
-  - [Books](#books)
-    - [History](#history)
-    - [Politics](#politics)
-    - [Israel](#israel)
-    - [Zionism](#zionism)
-      - [Non-Jewish Zionism](#non-jewish-zionism)
-    - [Gaza](#gaza)
-    - [Arabs of Israel (48-Palestinians)](#arabs-of-israel-48-palestinians)
-  - [Archives](#archives)
-  - [Movies](#movies)
-  - [Media](#media)
-  - [War Supporting Companies](#war-supporting-companies)
-  - [Open-Source Intelligence](#open-source-intelligence)
-  - [Activists \& Journalists](#activists--journalists)
-  - [Donations](#donations)
+- [Official](#official)
+- [Documents \& Reports](#documents--reports)
+- [Books](#books)
+  - [History](#history)
+  - [Politics](#politics)
+  - [Israel](#israel)
+  - [Zionism](#zionism)
+    - [Non-Jewish Zionism](#non-jewish-zionism)
+  - [Gaza](#gaza)
+  - [Arabs of Israel (48-Palestinians)](#arabs-of-israel-48-palestinians)
+- [Archives](#archives)
+- [Movies](#movies)
+- [Media](#media)
+- [War Supporting Companies](#war-supporting-companies)
+- [Open-Source Intelligence](#open-source-intelligence)
+- [Activists \& Journalists](#activists--journalists)
+- [Donations](#donations)
 
 ## Official
 
