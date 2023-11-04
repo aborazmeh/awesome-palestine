@@ -115,6 +115,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🌐 [Haaretz](https://www.haaretz.co.il)
 * 🌐 [Jadaliyya](https://www.jadaliyya.com)
 * 🌐 [Eye on Palestine](https://www.eyeonpalestine.ps) | ![](images/instagram.svg) [Eye on Palestine](https://www.instagram.com/eye.on.palestine)
+* 🌐 [Al-Monitor](https://www.al-monitor.com/palestine)
 * 🌐 [Quds News Network](https://qudsnen.co)
 * 🌐 [Shehab News](https://shehabnews.com) | 𝕏 [Shehab News](https://twitter.com/ShehabAgency) | ![](images/telegram.svg) [Shehab News](https://t.me/ShehabTelegram) | ![](images/telegram.svg) [Shehab Breaking News](https://t.me/ShehabTelegram2)
 * 🌐 [Democracy Now!](https://www.democracynow.org/topics/israel_and_palestine)
