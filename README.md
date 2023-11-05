@@ -99,6 +99,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 * 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 * 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
+* 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
 * 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
 * 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance) | ![](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
 * 🎬 [Five Broken Cameras (2011)](https://www.imdb.com/title/tt2125423) | ![](images/youtube.svg) [Five Broken Cameras (2011)](https://www.youtube.com/watch?v=SI37liwTIYI)
