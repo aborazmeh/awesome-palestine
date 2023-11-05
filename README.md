@@ -24,6 +24,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 - [Open-Source Intelligence](#open-source-intelligence)
 - [Activists \& Journalists](#activists--journalists)
 - [Donations](#donations)
+- [Petitions](#petitions)
 
 ## Official
 
@@ -144,3 +145,13 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 ## Donations
 
 * 🌐 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
+
+## Petitions
+
+* 🌐 [Palestine Campaign](https://palestinecampaign.org) | 📝 [Palestine Campaign - Patitions](https://palestinecampaign.eaction.online)
+* 📝 [#CeasefireNow: Open Call for an Immediate Ceasefire in the Gaza Strip and Israel](https://www.change.org/p/sign-and-share-this-urgent-petition-calling-for-a-ceasefirenow-in-gaza-and-israel)
+* 📝🇺🇸 [American government to call for immediate ceasefire in Gaza](https://www.change.org/p/american-government-to-call-for-immediate-ceasefire-in-gaza)
+* 📝 [Israel / Palestine — Stop Child Bloodshed Now](https://secure.avaaz.org/campaign/en/israel_palestine_save_the_kids_loc/)
+* 📝🇺🇸 [Write Your Members of Congress: Sign onto the Ceasefire Now resolution](https://actionnetwork.org/letters/tell-congress-ceasefire-now)
+* 📝 [Amnesty International: Demand a ceasefire by all parties to end civilian suffering](https://www.amnesty.org/en/petition/demand-a-ceasefire-by-all-parties-to-end-civilian-suffering/)
+* 📝🇬🇧 [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](https://petition.parliament.uk/petitions/648292)
