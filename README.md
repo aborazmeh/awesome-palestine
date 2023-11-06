@@ -37,6 +37,8 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📄 [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine) | 📄 [Human Rights Watch - Reports](https://www.hrw.org/publications?country%5B0%5D=9638)
 * 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
 * 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
+* 📄 [United Nations Fact Finding Mission on the Gaza Conflict (The Goldstone Report)](https://www.ohchr.org/en/hr-bodies/hrc/special-sessions/session9/fact-finding-mission)
+  * ⚠️ **Richard Goldstone, the lead author of the report, later wrote an op-ed in [The Washington Post](https://www.washingtonpost.com/opinions/2011/04/01/AFg111JC_story.html) on 1 April 2011 in which he retracted some of the report's conclusions.**
 * 📄 [Al-Haq](https://www.alhaq.org)
 * 📄 [Palestinian Return Centre](https://prc.org.uk)
 * 📄 [Madar Center](https://www.madarcenter.org)
