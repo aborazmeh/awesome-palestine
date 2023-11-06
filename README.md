@@ -152,6 +152,12 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🌱🇹🇷 [İHH İnsani Yardım Vakfı](https://ihh.org.tr)
 * 🌱🇹🇷 [Türk Kızılay- Filistin Genel Bağışı](https://www.kizilay.org.tr/Bagis/BagisYap/32)
 * 🌱 [The Palestinian Medical Relief Society](https://pmrs.ps)
+* 🌱 [Islamic Relief Worldwide - Palestine Emergency Appeal](https://islamic-relief.org/appeals/palestine-emergency-appeal)
+  * 🌱🇺🇸 [Islamic Relief USA - Middle East | Palestine](https://irusa.org/middle-east/palestine)
+  * 🌱🇨🇦 [Islamic Relief Canada - Gaza Appeal](https://www.islamicreliefcanada.org/emergencies/gaza-appeal)
+  * 🌱🇨🇦[Islamic Relief Canada -  Support Palestine: Palestine Emergency Appeal](https://www.islamicreliefcanada.org/emergencies/palestine)
+  * 🌱🇬🇧 [Islamic Relief UK - Palestine Emergency Appeal](https://www.islamic-relief.org.uk/giving/appeals/palestine)
+
 
 ## Petitions
 
