@@ -149,6 +149,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🌱 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
 * 🌱🇹🇷 [İHH İnsani Yardım Vakfı](https://ihh.org.tr)
 * 🌱 [The Palestinian Medical Relief Society](https://pmrs.ps)
+* 🌱🇹🇷 [Türk Kızılay- Filistin Genel Bağışı](https://www.kizilay.org.tr/Bagis/BagisYap/32)
 
 ## Petitions
 
