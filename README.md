@@ -112,7 +112,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 
 ## Media
 
-* 🌐 [Al Jazeera](https://www.aljazeera.com) | ![](images/telegram.svg) [Al Jazeera Palestine](https://t.me/AJPalestine)
+* 🌐 [Al Jazeera](https://www.aljazeera.com) | 𝕏 [Al Jazeera Palestine](https://twitter.com/AJA_PalestineEN) | ![](images/telegram.svg) [Al Jazeera Palestine](https://t.me/AJPalestine)
 * 🌐 [Middle East Eye](https://www.middleeasteye.net)
 * 🌐 [Mondoweiss](https://mondoweiss.net)
 * 🌐 [The Electronic Intifada](https://electronicintifada.net)
