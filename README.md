@@ -59,8 +59,8 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 ### Israel
 
 * 📚 [Ten Myths About Israel, Ilan Pappé (2017)](https://www.goodreads.com/book/show/31171856)
-* 📚 [The State of Israel vs. the Jews - Sylvain Cypel](https://www.goodreads.com/book/show/57067707)
-* 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat(2019)](https://www.goodreads.com/book/show/43154949)
+* 📚 [The State of Israel vs. the Jews - Sylvain Cypel (2021)](https://www.goodreads.com/book/show/57067707)
+* 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
 * 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 * 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
 
