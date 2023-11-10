@@ -1,9 +1,9 @@
 # Awesome Palestine ![Awesome](https://badgen.net/badge/icon/Awesome/0088cc?icon=awesome&label&color=514b6d&labelColor=70616d) 🇵🇸
 
 ![MIT License](https://badgen.net/github/license/aborazmeh/awesome-palestine)
-[![Share on Telegram](https://badgen.net/badge/share/Telegram/0088cc?icon=telegram)](https://telegram.me/share/url?url=https%3A%2F%2Fgithub.com%2Faborazmeh%2Fawesome-palestine&text=A%20curated%20list%20of%20Palestine%20and%20Palestinian-Israeli%20conflict%20resources)
 [![Share on Twitter](https://badgen.net/badge/share/%F0%9D%95%8F%20Twitter/1da1f2?icon=twitter)](http://twitter.com/share?text=A%20curated%20list%20of%20Palestine%20and%20Palestinian-Israeli%20conflict%20resources&url=https%3A%2F%2Fgithub.com%2Faborazmeh%2Fawesome-palestine&hashtags=Awesome,Palestine)
 [![Share on Reddit](https://badgen.net/badge/share/Reddit/ff4500?icon=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Faborazmeh%2Fawesome-palestine&title=A%20curated%20list%20of%20Palestine%20and%20Palestinian-Israeli%20conflict%20resources)
+[![Share on Telegram](https://badgen.net/badge/share/Telegram/0088cc?icon=telegram)](https://telegram.me/share/url?url=https%3A%2F%2Fgithub.com%2Faborazmeh%2Fawesome-palestine&text=A%20curated%20list%20of%20Palestine%20and%20Palestinian-Israeli%20conflict%20resources)
 
 A curated list of Palestine and Palestinian-Israeli conflict resources.
 
