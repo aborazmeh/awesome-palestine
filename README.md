@@ -179,3 +179,5 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📝🇨🇦 [Canada: Urgent Action Needed to Secure an Immediate Ceasefire & Humanitarian Corridor in Gaza](https://act.newmode.net/action/islamic-relief-canada/canada-call-immediate-humanitarian-corridor-gaza)
 
 ## Pro-Palestine Websites
+
+* 🌐 [Palestine Side, the Palestine side of Palestine and israel conflict](https://www.palestineside.site/)
