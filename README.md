@@ -30,7 +30,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 - [Activists \& Journalists](#activists--journalists)
 - [Donations](#donations)
 - [Petitions](#petitions)
-- [Pro-Palestine Websites](##pro-palestine-websites)
+- [Pro-Palestine Websites](#pro-palestine-websites)
 
 ## Official
 
