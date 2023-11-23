@@ -178,6 +178,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 * 📝 [Amnesty International: Demand a ceasefire by all parties to end civilian suffering](https://www.amnesty.org/en/petition/demand-a-ceasefire-by-all-parties-3to-end-civilian-suffering)
 * 📝🇬🇧 [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](https://petition.parliament.uk/petitions/648292)
 * 📝🇨🇦 [Canada: Urgent Action Needed to Secure an Immediate Ceasefire & Humanitarian Corridor in Gaza](https://act.newmode.net/action/islamic-relief-canada/canada-call-immediate-humanitarian-corridor-gaza)
+* 📝🇵🇸 [Boycott, Divestment, Sanctions (BDS) is a Palestinian-led movement for freedom, justice and equality.](https://bdsmovement.net/)
 
 ## Pro-Palestine Websites
 
