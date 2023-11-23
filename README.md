@@ -106,6 +106,7 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 🗃️ [Maps of Palestine before the Nakba](https://palmap.link)
 * 🗃️ [Palestine Remembered](https://palestineremembered.com)
 * 📸 [Hidden Palestine](https://hiddenpalestine.com)
+* 🗃️ [Palesine Land Society](https://www.plands.org/en)
 
 ## Movies
 
