@@ -182,3 +182,10 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## Pro-Palestine Websites
 
 * 🌐 [Palestine Side, the Palestine side of Palestine and israel conflict](https://www.palestineside.site/)
+
+
+# 
+
+<div align="center" stlye="font-weight=bold">
+Show some ❤️ for humanity by sharing [this repository](https://github.com/aborazmeh/awesome-palestine) with others.
+</div>
