@@ -187,5 +187,5 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 # 
 
 <div align="center" stlye="font-weight=bold">
-Show some ❤️ for humanity by sharing [this repository](https://github.com/aborazmeh/awesome-palestine) with others.
+Show some ❤️ for humanity by sharing <a href="https://github.com/aborazmeh/awesome-palestine" target="_blank">this repository</a> with others.
 </div>
