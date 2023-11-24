@@ -8,7 +8,7 @@
 A curated list of Palestine and Palestinian-Israeli conflict resources.
 
 Want to contribute?
-Thanks. please refer to [this](CONTRIBUTING.md) first.
+Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/blob/main/CONTRIBUTING.md) first.
 
 ## Table of Contents
 
@@ -178,7 +178,15 @@ Thanks. please refer to [this](CONTRIBUTING.md) first.
 * 📝 [Amnesty International: Demand a ceasefire by all parties to end civilian suffering](https://www.amnesty.org/en/petition/demand-a-ceasefire-by-all-parties-3to-end-civilian-suffering)
 * 📝🇬🇧 [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](https://petition.parliament.uk/petitions/648292)
 * 📝🇨🇦 [Canada: Urgent Action Needed to Secure an Immediate Ceasefire & Humanitarian Corridor in Gaza](https://act.newmode.net/action/islamic-relief-canada/canada-call-immediate-humanitarian-corridor-gaza)
+* 📝🇵🇸 [Boycott, Divestment, Sanctions (BDS) is a Palestinian-led movement for freedom, justice and equality.](https://bdsmovement.net/)
 
 ## Pro-Palestine Websites
 
 * 🌐 [Palestine Side, the Palestine side of Palestine and israel conflict](https://www.palestineside.site/)
+
+
+# 
+
+<div align="center" stlye="font-weight=bold">
+Show some ❤️ for humanity by sharing <a href="https://github.com/aborazmeh/awesome-palestine" target="_blank">this repository</a> with others.
+</div>
