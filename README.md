@@ -166,7 +166,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
   * 🌱🇨🇦 [Islamic Relief Canada - Gaza Appeal](https://www.islamicreliefcanada.org/emergencies/gaza-appeal)
   * 🌱🇨🇦[Islamic Relief Canada -  Support Palestine: Palestine Emergency Appeal](https://www.islamicreliefcanada.org/emergencies/palestine)
   * 🌱🇬🇧 [Islamic Relief UK - Palestine Emergency Appeal](https://www.islamic-relief.org.uk/giving/appeals/palestine)
-* 🌱[LaunchGood - Support Hospitals In Gaza](https://www.launchgood.com/)
+* 🌱[LaunchGood - Support Hospitals In Gaza](https://www.launchgood.com/WithGaza)
 
 ## Petitions
 
