@@ -139,6 +139,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 * 🌐 [Boycott war supporting companies](https://boycott.thewitness.news) | ![](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
 * 🌐 [bdnaash](https://bdnaash.com)
+* 🌐 [boycotzionism](https://www.boycotzionism.com/)
+
 
 ## Open-Source Intelligence
 
