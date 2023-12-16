@@ -1,0 +1,345 @@
+{
+  "Official": {
+    "data": [
+      { "url": "http://moh.gov.ps", "type": "web_page" },
+      { "url": "https://www.pcbs.gov.ps", "type": "web_page" }
+    ]
+  },
+  "Documents &amp; Reports": {
+    "data": [
+      {
+        "url": "https://www.aljazeera.net/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-2.pdf",
+        "type": "file"
+      },
+      {
+        "url": "https://www.hrw.org/middle-east/north-africa/israel/palestine",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.hrw.org/publications?country%5B0%5D=9638",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.amnestyusa.org/countries/palestine-state-of",
+        "type": "web_page"
+      },
+      { "url": "https://www.btselem.org", "type": "web_page" },
+      {
+        "url": "https://www.ohchr.org/en/hr-bodies/hrc/special-sessions/session9/fact-finding-mission",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.washingtonpost.com/opinions/2011/04/01/AFg111JC_story.html",
+        "type": "file"
+      },
+      { "url": "https://www.alhaq.org", "type": "web_page" },
+      { "url": "https://prc.org.uk", "type": "web_page" },
+      { "url": "https://www.madarcenter.org", "type": "web_page" }
+    ]
+  },
+  "Books": {
+    "History": {
+      "data": [
+        {
+          "url": "https://www.goodreads.com/book/show/57540",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/41812831",
+          "type": "web_page"
+        }
+      ]
+    },
+    "Politics": {
+      "data": [
+        {
+          "url": "https://www.goodreads.com/book/show/62698",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/224127",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/9345",
+          "type": "web_page"
+        }
+      ]
+    },
+    "Israel": {
+      "data": [
+        {
+          "url": "https://www.goodreads.com/book/show/31171856",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/57067707",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/43154949",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/1086651",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/77920745",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/5619985",
+          "type": "web_page"
+        }
+      ]
+    },
+    "Zionism": {
+      "data": [
+        {
+          "url": "https://www.goodreads.com/series/265200",
+          "type": "web_page"
+        },
+        { "url": "https://www.goodreads.com/series/265199", "type": "web_page" }
+      ],
+      "Non-Jewish Zionism": {
+        "data": [
+          {
+            "url": "https://www.goodreads.com/book/show/9507130",
+            "type": "web_page"
+          },
+          {
+            "url": "https://www.goodreads.com/book/show/525278",
+            "type": "web_page"
+          },
+          {
+            "url": "https://www.goodreads.com/book/show/729879",
+            "type": "web_page"
+          }
+        ]
+      }
+    },
+    "Gaza": {
+      "data": [
+        {
+          "url": "https://www.goodreads.com/book/show/35070437",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/2856775",
+          "type": "web_page"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/654400",
+          "type": "web_page"
+        }
+      ]
+    },
+    "Arabs of Israel (48-Palestinians)": {
+      "data": [
+        {
+          "url": "https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society",
+          "type": "web_page"
+        }
+      ]
+    }
+  },
+  "Archives": {
+    "data": [
+      { "url": "https://palarchive.org", "type": "web_page" },
+      { "url": "https://www.palestineposterproject.org", "type": "web_page" },
+      { "url": "https://www.nakba-archive.org", "type": "web_page" },
+      {
+        "url": "https://www.loc.gov/pictures/collection/matpc",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.unrwa.org/photo-and-film-archive",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.nts.live/shows/palestinian-sound-archive",
+        "type": "web_page"
+      },
+      {
+        "url": "https://avalon.law.yale.edu/subject_menus/mideast.asp",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.levyinstitute.org/palestinian-census",
+        "type": "web_page"
+      },
+      { "url": "https://palmap.link", "type": "web_page" },
+      { "url": "https://palestineremembered.com", "type": "web_page" },
+      { "url": "https://hiddenpalestine.com", "type": "web_page" },
+      { "url": "https://www.plands.org/en", "type": "web_page" }
+    ]
+  },
+  "Movies": {
+    "data": [
+      { "url": "https://www.imdb.com/title/tt3457376", "type": "web_page" },
+      { "url": "https://www.imdb.com/title/tt16378034", "type": "web_page" },
+      { "url": "https://www.imdb.com/title/tt15721106", "type": "web_page" },
+      { "url": "https://killinggaza.com", "type": "web_page" },
+      {
+        "url": "https://www.youtube.com/watch?v=Vwb2OlqTO0M",
+        "type": "web_page"
+      },
+      {
+        "url": "https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NKEdxHEQz00",
+        "type": "web_page"
+      },
+      { "url": "https://www.imdb.com/title/tt2125423", "type": "web_page" },
+      {
+        "url": "https://www.youtube.com/watch?v=SI37liwTIYI",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL30A8F80C4E383847",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=oy_AtxpIQBw",
+        "type": "web_page"
+      }
+    ]
+  },
+  "Media": {
+    "data": [
+      { "url": "https://www.aljazeera.com", "type": "web_page" },
+      { "url": "https://twitter.com/AJA_PalestineEN", "type": "web_page" },
+      { "url": "https://t.me/AJPalestine", "type": "web_page" },
+      { "url": "https://www.middleeasteye.net", "type": "web_page" },
+      { "url": "https://mondoweiss.net", "type": "web_page" },
+      { "url": "https://electronicintifada.net", "type": "web_page" },
+      { "url": "https://www.972mag.com", "type": "web_page" },
+      { "url": "https://www.haaretz.co.il", "type": "web_page" },
+      { "url": "https://www.jadaliyya.com", "type": "web_page" },
+      { "url": "https://www.eyeonpalestine.ps", "type": "web_page" },
+      {
+        "url": "https://www.instagram.com/eye.on.palestine",
+        "type": "web_page"
+      },
+      { "url": "https://t.me/eyeonpal", "type": "web_page" },
+      { "url": "https://www.al-monitor.com/palestine", "type": "web_page" },
+      { "url": "https://qudsnen.co", "type": "web_page" },
+      { "url": "https://shehabnews.com", "type": "web_page" },
+      { "url": "https://twitter.com/ShehabAgency", "type": "web_page" },
+      { "url": "https://t.me/ShehabTelegram", "type": "web_page" },
+      { "url": "https://t.me/ShehabTelegram2", "type": "web_page" },
+      {
+        "url": "https://www.democracynow.org/topics/israel_and_palestine",
+        "type": "web_page"
+      },
+      { "url": "https://ifamericansknew.org", "type": "web_page" }
+    ]
+  },
+  "War Supporting Companies": {
+    "data": [
+      { "url": "https://boycott.thewitness.news", "type": "web_page" },
+      { "url": "https://t.me/Savegazabot", "type": "web_page" },
+      { "url": "https://bdnaash.com", "type": "web_page" },
+      { "url": "https://www.boycotzionism.com/", "type": "web_page" }
+    ]
+  },
+  "Open-Source Intelligence": {
+    "data": [
+      { "url": "https://twitter.com/EekadFacts", "type": "web_page" },
+      { "url": "", "type": "unknown" },
+      { "url": "https://twitter.com/ShaykhSulaiman", "type": "web_page" }
+    ]
+  },
+  "Activists &amp; Journalists": {
+    "data": [
+      { "url": "https://imeu.org", "type": "web_page" },
+      { "url": "https://www.adalah.org/en", "type": "web_page" },
+      { "url": "https://www.adalahjusticeproject.org", "type": "web_page" },
+      { "url": "https://palestinianyouthmovement.com", "type": "web_page" },
+      { "url": "https://www.jewishvoiceforpeace.org", "type": "web_page" },
+      { "url": "https://www.instagram.com/motaz_azaiza", "type": "web_page" }
+    ]
+  },
+  "Donations": {
+    "data": [
+      { "url": "https://donate.unrwa.org", "type": "web_page" },
+      {
+        "url": "https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522",
+        "type": "web_page"
+      },
+      { "url": "https://ihh.org.tr", "type": "web_page" },
+      {
+        "url": "https://www.kizilay.org.tr/Bagis/BagisYap/32",
+        "type": "web_page"
+      },
+      { "url": "https://pmrs.ps", "type": "web_page" },
+      {
+        "url": "https://islamic-relief.org/appeals/palestine-emergency-appeal",
+        "type": "web_page"
+      },
+      { "url": "https://irusa.org/middle-east/palestine", "type": "web_page" },
+      {
+        "url": "https://www.islamicreliefcanada.org/emergencies/gaza-appeal",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.islamicreliefcanada.org/emergencies/palestine",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.islamic-relief.org.uk/giving/appeals/palestine",
+        "type": "web_page"
+      },
+      { "url": "https://www.launchgood.com/WithGaza", "type": "web_page" }
+    ]
+  },
+  "Petitions": {
+    "data": [
+      { "url": "https://palestinecampaign.org", "type": "web_page" },
+      { "url": "https://palestinecampaign.eaction.online", "type": "web_page" },
+      {
+        "url": "https://www.change.org/p/sign-and-share-this-urgent-petition-calling-for-a-ceasefirenow-in-gaza-and-israel",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.change.org/p/american-government-to-call-for-immediate-ceasefire-in-gaza",
+        "type": "web_page"
+      },
+      {
+        "url": "https://secure.avaaz.org/campaign/en/israel_palestine_save_the_kids_loc",
+        "type": "web_page"
+      },
+      {
+        "url": "https://actionnetwork.org/letters/tell-congress-ceasefire-now",
+        "type": "web_page"
+      },
+      {
+        "url": "https://www.amnesty.org/en/petition/demand-a-ceasefire-by-all-parties-3to-end-civilian-suffering",
+        "type": "web_page"
+      },
+      {
+        "url": "https://petition.parliament.uk/petitions/648292",
+        "type": "web_page"
+      },
+      {
+        "url": "https://act.newmode.net/action/islamic-relief-canada/canada-call-immediate-humanitarian-corridor-gaza",
+        "type": "web_page"
+      },
+      { "url": "https://bdsmovement.net/", "type": "web_page" }
+    ]
+  },
+  "Pro-Palestine Websites": {
+    "data": [{ "url": "https://www.palestineside.site/", "type": "web_page" }]
+  }
+}

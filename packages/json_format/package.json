@@ -1,0 +1,21 @@
+{
+  "name": "json_format",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "yarn dev:types & yarn dev & yarn dev:format",
+    "dev": "vite-node ./src/index.ts",
+    "dev:types": "vite-node ./src/compiler/types-generator.ts",
+    "dev:format": "prettier --write ./data"
+  },
+  "dependencies": {
+    "marked": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "prettier": "^3.1.1",
+    "vite-node": "^1.0.4"
+  }
+}
