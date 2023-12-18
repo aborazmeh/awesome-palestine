@@ -132,7 +132,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 * 🌐 [Al-Monitor](https://www.al-monitor.com/palestine)
 * 🌐 [Quds News Network](https://qudsnen.co)
 * 🌐 [Shehab News](https://shehabnews.com) | 𝕏 [Shehab News](https://twitter.com/ShehabAgency) | ![](images/telegram.svg) [Shehab News](https://t.me/ShehabTelegram) | ![](images/telegram.svg) [Shehab Breaking News](https://t.me/ShehabTelegram2)
-* 🌐 [Democracy Now!](https://www.democracynow.org/topics/israel_and_palestine)
+* 🌐 [Democracy Now!](https://www.democracynow.org/topics/israel_and_palestine) | ![](images/spotify.svg) [Democracy Now! Audio](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG)
 * 🌐 [If Americans Knew](https://ifamericansknew.org)
 
 ## War Supporting Companies
