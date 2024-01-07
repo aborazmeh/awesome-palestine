@@ -15,3 +15,9 @@ Anyone is welcome to contribute, but here are some guidelines to consider:
 ## How
 
 The easiest way is to go to the list [blob page](https://github.com/aborazmeh/awesome-palestine/blob/main/README.md) and click on the "pen" icon in the upper right corner. Make the changes to the file and follow the instructions to create a pull request.
+
+## Recommendations
+
+For the sake of consistency, it's highly recommended to use [Visual Studio Code](https://code.visualstudio.com/) and to install the recommended extensions.
+
+To do that, open the extension pane (usually `Ctrl+Shift+x`) and type `@recommended`, and install the listed extensions, then install `npm` packages via `npm install` or any equivalent you use.
