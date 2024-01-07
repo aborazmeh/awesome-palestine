@@ -55,6 +55,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 * 📚 [The Ethnic Cleansing of Palestine, Ilan Pappé (2006)](https://www.goodreads.com/book/show/57540)
 * 📚 [The Hundred Years' War on Palestine: A History of Settler-Colonial Conquest and Resistance, 1917-2017, Rashid Khalidi (2020)](https://www.goodreads.com/book/show/41812831)
+* 📚 [The Lemon Tree, Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
+
 
 ### Politics
 
