@@ -110,6 +110,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Movies
 
+* 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | [International Version (TUR, POL, ESP, FRA, DEU, SAU subtiles)](https://vimeo.com/381391163)
 * 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 * 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
 * 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
