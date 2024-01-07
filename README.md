@@ -112,6 +112,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 * 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 * 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
+* 🎬 [A Reel War: Shalal (2023)](https://www.youtube.com/watch?v=aQqlBGuB2B0)
 * 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
 * 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
 * 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance) | ![](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
