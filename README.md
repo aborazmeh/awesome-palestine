@@ -157,6 +157,10 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 * 🌐 [Palestinian Youth Movement](https://palestinianyouthmovement.com)
 * 🌐 [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org)
 * ![](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
+* ![](images/instagram.svg) [Wael Al Dahdouh](https://www.instagram.com/wael_eldahdouh)
+* ![](images/instagram.svg) [Bisan](https://www.instagram.com/wizard_bisan1/)
+* ![](images/x.svg) [Hind Khoudary](https://twitter.com/Hind_Gaza)
+* ![](images/x.svg) [Mohammed El-Kurd](https://twitter.com/m7mdkurd)
 
 ## Donations
 
