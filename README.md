@@ -39,6 +39,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Documents & Reports
 
+- 📄 [Anti-Palestinian Racism Framework by the Arab Canadian Lawyers Association](https://static1.squarespace.com/static/61db30d12e169a5c45950345/t/627dcf83fa17ad41ff217964/1652412292220/Anti-Palestinian+Racism-+Naming%2C+Framing+and+Manifestations.pdf)
+- 📄 [Anti-Palestinian Racism Factsheet by Canadians for Justice in Palestine and the Middle East](https://assets.nationbuilder.com/cjpme/pages/965/attachments/original/1657297831/227_-_Factsheet_on_Anti-Palestinian_Racism_-_EN.pdf?1657297831)  
 - 📄 [International Court of Justice application alleging Genocide in Gaza, filed 29 December 2023](https://www.icj-cij.org/sites/default/files/case-related/192/192-20231228-app-01-00-en.pdf)
   - 📄 [Summary by John Mearsheimer](https://mearsheimer.substack.com/p/genocide-in-gaza)
 - 📄 [Detailed list of the civilian causalities between 7-26 October](https://www.aljazeera.net/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-2.pdf)
