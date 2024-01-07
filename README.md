@@ -164,6 +164,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [Palestinian Youth Movement](https://palestinianyouthmovement.com)
 - 🌐 [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org)
 - ![Instagram icon](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
+- 🌐 [Jonathan Cook](https://www.jonathan-cook.net/)
 
 ## Donations
 
