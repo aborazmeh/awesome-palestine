@@ -59,6 +59,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [The Hundred Years' War on Palestine: A History of Settler-Colonial Conquest and Resistance, 1917-2017, Rashid Khalidi (2020)](https://www.goodreads.com/book/show/41812831)
 - 📚 [Palestine: A Four Thousand Year History, Nur Masalha 2018](https://www.goodreads.com/en/book/show/36645450)
 - 📚 [Image and Reality of the Israel-Palestine Conflict, Norman G. Finkelstein 1995](https://www.goodreads.com/en/book/show/169481)
+- 📚 [The Lemon Tree, Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
 
 ### Politics
 
@@ -116,7 +117,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Movies
 
-
 - 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
 - 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
@@ -167,6 +167,11 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [Palestinian Youth Movement](https://palestinianyouthmovement.com)
 - 🌐 [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org)
 - ![Instagram icon](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
+- ![Instagram icon](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
+- ![Instagram icon](images/instagram.svg) [Wael Al Dahdouh](https://www.instagram.com/wael_eldahdouh)
+- ![Instagram icon](images/instagram.svg) [Bisan](https://www.instagram.com/wizard_bisan1/)
+- 𝕏 [Hind Khoudary](https://twitter.com/Hind_Gaza)
+- 𝕏 [Mohammed El-Kurd](https://twitter.com/m7mdkurd)
 - 🌐 [Jonathan Cook](https://www.jonathan-cook.net/)
 
 ## Donations
