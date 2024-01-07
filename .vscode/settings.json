@@ -1,4 +1,6 @@
 {
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
   "markdown.extension.toc.levels": "2..6",
   "markdown.extension.toc.omittedFromToc": {
     "README.md": ["## Table of Contents"]

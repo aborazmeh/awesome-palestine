@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "lint": "markdownlint --config .markdownlint.jsonc *.md",
+    "format": "prettier --write *.{md,js} && npm run lint --fix"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.38.0",
+    "prettier": "^3.1.1",
+    "remark-cli": "^12.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-stringify": "^11.0.0"
+  }
+}
