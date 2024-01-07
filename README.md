@@ -39,6 +39,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Documents & Reports
 
+* 📄 [International Court of Justice application alleging Genocide in Gaza, filed 29 December 2023](https://www.icj-cij.org/sites/default/files/case-related/192/192-20231228-app-01-00-en.pdf)
+    * 📄 [Summary by John Mearsheimer](https://mearsheimer.substack.com/p/genocide-in-gaza)
 * 📄 [Detailed list of the civilian causalities between 7-26 October](https://www.aljazeera.net/wp-content/uploads/2023/10/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-2.pdf)
 * 📄 [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine) | 📄 [Human Rights Watch - Reports](https://www.hrw.org/publications?country%5B0%5D=9638)
 * 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
@@ -55,6 +57,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 * 📚 [The Ethnic Cleansing of Palestine, Ilan Pappé (2006)](https://www.goodreads.com/book/show/57540)
 * 📚 [The Hundred Years' War on Palestine: A History of Settler-Colonial Conquest and Resistance, 1917-2017, Rashid Khalidi (2020)](https://www.goodreads.com/book/show/41812831)
+* 📚 [Palestine: A Four Thousand Year History, Nur Masalha 2018](https://www.goodreads.com/en/book/show/36645450)
+* 📚 [Image and Reality of the Israel-Palestine Conflict, Norman G. Finkelstein 1995](https://www.goodreads.com/en/book/show/169481)
 
 ### Politics
 
@@ -91,6 +95,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### Arabs of Israel (48-Palestinians)
 
+* 📖 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
 * 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
 
 ## Archives
@@ -107,13 +112,16 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 * 🗃️ [Palestine Remembered](https://palestineremembered.com)
 * 📸 [Hidden Palestine](https://hiddenpalestine.com)
 * 🗃️ [Palesine Land Society](https://www.plands.org/en)
+* 🗃️ [Zochrot](https://www.zochrot.org/welcome/index/en)
 
 ## Movies
 
+* 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
 * 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 * 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
 * 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
 * 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
+* 🎬 [1948: Creation & Catastrophe](https://www.imdb.com/title/tt7977026/)
 * 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance) | ![](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
 * 🎬 [Five Broken Cameras (2011)](https://www.imdb.com/title/tt2125423) | ![](images/youtube.svg) [Five Broken Cameras (2011)](https://www.youtube.com/watch?v=SI37liwTIYI)
 * 🎬 ![](images/youtube.svg) [Al Nakba Documentary (multi-lingual)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847)
@@ -133,6 +141,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 * 🌐 [Quds News Network](https://qudsnen.co)
 * 🌐 [Shehab News](https://shehabnews.com) | 𝕏 [Shehab News](https://twitter.com/ShehabAgency) | ![](images/telegram.svg) [Shehab News](https://t.me/ShehabTelegram) | ![](images/telegram.svg) [Shehab Breaking News](https://t.me/ShehabTelegram2)
 * 🌐 [Democracy Now!](https://www.democracynow.org/topics/israel_and_palestine) | ![](images/spotify.svg) [Democracy Now! Audio](https://open.spotify.com/show/3cNrL5nALTDuWbRfabHeOG)
+* 🌐 [The Real News Network](https://therealnews.com/tag/palestine)
 * 🌐 [Novara Media](https://novaramedia.com/) | ![](images/spotify.svg) [Novara Media](https://open.spotify.com/show/3KtmyPhvQ2FvhwdRNo5I1N) | ![](images/spotify.svg) [Novara Live](https://open.spotify.com/show/3HK3Uw3kX7iHnXfMnoLV6x)
 * 🌐 [If Americans Knew](https://ifamericansknew.org)
 
@@ -170,7 +179,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
   * 🌱🇨🇦[Islamic Relief Canada -  Support Palestine: Palestine Emergency Appeal](https://www.islamicreliefcanada.org/emergencies/palestine)
   * 🌱🇬🇧 [Islamic Relief UK - Palestine Emergency Appeal](https://www.islamic-relief.org.uk/giving/appeals/palestine)
 * 🌱[LaunchGood - Support Hospitals In Gaza](https://www.launchgood.com/WithGaza)
-* 🌱🇸🇦 [King Salman Humanitarian Aid and Relief Center / مركز الملك سلمان للإغاثة والأعمال الإنسانية](https://sahem.ksrelief.org/Pages/ProgramDetails/1ca8852b-9e6d-ee11-b83f-005056ac5498)
 
 ## Petitions
 
