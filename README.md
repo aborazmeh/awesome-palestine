@@ -154,7 +154,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Open-Source Intelligence
 
-- 𝕏 [Eekad](https://twitter.com/EekadFacts) | ![Youtube icon](images/youtube.svg) [Eekad]()
+- 𝕏 [Eekad](https://twitter.com/EekadFacts) | ![Youtube icon](images/youtube.svg) [Eekad](https://www.youtube.com/@EekadFacts)
 - 𝕏 [Sulaiman Ahmed](https://twitter.com/ShaykhSulaiman)
 
 ## Activists & Journalists
@@ -177,7 +177,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌱 [Islamic Relief Worldwide - Palestine Emergency Appeal](https://islamic-relief.org/appeals/palestine-emergency-appeal)
   - 🌱🇺🇸 [Islamic Relief USA - Middle East | Palestine](https://irusa.org/middle-east/palestine)
   - 🌱🇨🇦 [Islamic Relief Canada - Gaza Appeal](https://www.islamicreliefcanada.org/emergencies/gaza-appeal)
-  - 🌱🇨🇦[Islamic Relief Canada -  Support Palestine: Palestine Emergency Appeal](https://www.islamicreliefcanada.org/emergencies/palestine)
+  - 🌱🇨🇦[Islamic Relief Canada - Support Palestine: Palestine Emergency Appeal](https://www.islamicreliefcanada.org/emergencies/palestine)
   - 🌱🇬🇧 [Islamic Relief UK - Palestine Emergency Appeal](https://www.islamic-relief.org.uk/giving/appeals/palestine)
 - 🌱[LaunchGood - Support Hospitals In Gaza](https://www.launchgood.com/WithGaza)
 - 🌱🇸🇦 [King Salman Humanitarian Aid and Relief Center / مركز الملك سلمان للإغاثة والأعمال الإنسانية](https://sahem.ksrelief.org/Pages/ProgramDetails/1ca8852b-9e6d-ee11-b83f-005056ac5498)
