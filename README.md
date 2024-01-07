@@ -116,10 +116,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Movies
 
+
 - 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
 - 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 - 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
+- 🎬 [A Reel War: Shalal (2023)](https://jfi.org/year-round/jfi-on-demand/a-reel-war-shalal-x8731) | ![Youtube icon](images/youtube.svg) [Trailer](https://www.youtube.com/watch?v=mvMwJyZ4qqs)
 - 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
 - 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![Youtube icon](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
 - 🎬 [1948: Creation & Catastrophe (2017)](https://www.imdb.com/title/tt7977026/) | 🌐 [1948: Creation & Catastrophe (2017)](1948movie.com) | ![Youtube icon](images/youtube.svg) [1948: Creation & Catastrophe (2017)](https://www.youtube.com/watch?v=Bwy-Rf15UIs)
