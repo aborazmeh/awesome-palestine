@@ -101,6 +101,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 📖 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
 - 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
+- ![Youtube icon](images/youtube.svg) [The forgotten history of Arab Jews, Avi Shlaim (2023)](https://www.youtube.com/watch?v=lfDhaWlqXf8&ab_channel=MiddleEastEye)
 
 ### Fiction
 
