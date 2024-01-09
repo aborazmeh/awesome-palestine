@@ -32,7 +32,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - [Donations](#donations)
 - [Petitions](#petitions)
 - [Pro-Palestine Websites](#pro-palestine-websites)
-- [APIS](#APIS)
+- [APIs](#apis)
 
 ## Official
 
@@ -217,7 +217,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 🌐 [Palestine Side, the Palestine side of Palestine and israel conflict](https://www.palestineside.site/)
 
-## APIS
+## APIs
 
 - 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/Zain-ul-din/awesome-palestine-apis)
 
