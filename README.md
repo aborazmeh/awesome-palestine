@@ -79,6 +79,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
 
 - 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
+- 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
 
 ### Zionism
 
@@ -129,7 +130,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
 - 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
-- 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034)
+- 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034) | ![Youtube icon](images/youtube.svg) [TANTURA - Documentary](https://www.youtube.com/watch?v=qIs6lTt6I8k)
 - 🎬 [A Reel War: Shalal (2023)](https://jfi.org/year-round/jfi-on-demand/a-reel-war-shalal-x8731) | ![Youtube icon](images/youtube.svg) [Trailer](https://www.youtube.com/watch?v=mvMwJyZ4qqs)
 - 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
 - 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![Youtube icon](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
