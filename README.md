@@ -185,6 +185,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 𝕏 [Hind Khoudary](https://twitter.com/Hind_Gaza)
 - 𝕏 [Mohammed El-Kurd](https://twitter.com/m7mdkurd)
 - 🌐 [Jonathan Cook](https://www.jonathan-cook.net/)
+- 🌐 [Palestine Legal: to protect the rights of people in the U.S. who speak out for Palestinian freedom](https://palestinelegal.org)
 
 ## Donations
 
