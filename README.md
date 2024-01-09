@@ -218,7 +218,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## APIS
 
-- 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/aborazmeh/awesome-palestine)
+- 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/Zain-ul-din/awesome-palestine-apis)
 
 ---
 
