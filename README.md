@@ -77,7 +77,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
 - 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
-
 - 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
 - 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
 
@@ -100,14 +99,14 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### Arabs of Israel (48-Palestinians)
 
-- 📖 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
+- 📚 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
 - 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
 
 ### Fiction
 
 - 📚 [The Woman from Tantoura: A Palestinian Novel, Radwa Ashour (2010)](https://www.goodreads.com/book/show/17678418)
 - 📚 [Palestine's Children: Returning to Haifa & Other Stories, Ghassan Kanafani (1984)](https://www.goodreads.com/book/show/125252)
-- [Men in the Sun, Ghassan Kanafani (1963)](https://www.goodreads.com/book/show/3429641)
+- 📚 [Men in the Sun, Ghassan Kanafani (1963)](https://www.goodreads.com/book/show/3429641)
 
 ## Archives
 
