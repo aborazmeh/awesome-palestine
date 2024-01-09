@@ -174,6 +174,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [The Institute for Middle East Understanding (IMEU)](https://imeu.org)
 - 🌐 [Adalah - The Legal Center for Arab Minority Rights in Israel](https://www.adalah.org/en)
 - 🌐 [Adalah Justice Project](https://www.adalahjusticeproject.org)
+- 🌐 [Al Mezan Center for Human Rights](https://www.mezan.org/en)
+- 🌐 [Addameer: Prisoner Support and Human Rights Association](https://www.addameer.org/)
 - 🌐 [Palestinian Youth Movement](https://palestinianyouthmovement.com)
 - 🌐 [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org)
 - ![Instagram icon](images/instagram.svg) [Motaz Azaiza](https://www.instagram.com/motaz_azaiza)
