@@ -129,7 +129,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## Movies
 
 - 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
-- 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
+- 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 - 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034) | ![Youtube icon](images/youtube.svg) [TANTURA - Documentary](https://www.youtube.com/watch?v=qIs6lTt6I8k)
 - 🎬 [A Reel War: Shalal (2023)](https://jfi.org/year-round/jfi-on-demand/a-reel-war-shalal-x8731) | ![Youtube icon](images/youtube.svg) [Trailer](https://www.youtube.com/watch?v=mvMwJyZ4qqs)
@@ -167,6 +167,9 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [bdnaash](https://bdnaash.com)
 - 🌐 [boycotzionism](https://www.boycotzionism.com/)
 - 🌐🇹🇷 [Boykot Ürünleri](https://boykoturunleri.com.tr)
+- 🌐🇹🇷 [Boykot Ürünleri](https://boykoturunleri.com.tr)
+- https://boykoturunleri.com.tr
+- https://boykoturunleri.com.tr
 - 🌐🇹🇷 [Boykot.co](https://www.boykot.co)
 - 🌐🇹🇷 [Boykot Hareketi](https://boykothareketi.com/)
 - 🌐 [A Collection of War Supporting Companies Lists](https://freepalestine1948.gitbook.io/boycott)
