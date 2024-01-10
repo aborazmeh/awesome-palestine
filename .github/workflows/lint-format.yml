@@ -5,6 +5,7 @@ on:
             - master
             - production
 
+
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
