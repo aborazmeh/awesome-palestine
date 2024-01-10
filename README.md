@@ -234,6 +234,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ---
 
-<div align="center" style="font-weight=bold">
+<div align="center">
 Show some ❤️ for humanity by sharing <a href="https://github.com/aborazmeh/awesome-palestine" target="_blank">this repository</a> with others.
 </div>
