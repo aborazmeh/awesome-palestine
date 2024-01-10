@@ -158,6 +158,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [The Real News Network](https://therealnews.com/tag/palestine)
 - 🌐 [Novara Media](https://novaramedia.com/) | ![Spotify icon](images/spotify.svg) [Novara Media](https://open.spotify.com/show/3KtmyPhvQ2FvhwdRNo5I1N) | ![Spotify icon](images/spotify.svg) [Novara Live](https://open.spotify.com/show/3HK3Uw3kX7iHnXfMnoLV6x)
 - 🌐 [If Americans Knew](https://ifamericansknew.org)
+- 🌐 [The Grayzone](https://thegrayzone.com/)
+- 🌐 [CounterPunch](https://www.counterpunch.org/)
 
 ## War Supporting Companies
 
