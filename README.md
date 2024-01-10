@@ -125,6 +125,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📸 [Hidden Palestine](https://hiddenpalestine.com)
 - 🗃️ [Palestine Land Society](https://www.plands.org/en)
 - 🗃️ [Zochrot](https://www.zochrot.org/welcome/index/en)
+- 🗃️ [Balfour Project](https:/https://balfourproject.org)
 
 ## Movies
 
