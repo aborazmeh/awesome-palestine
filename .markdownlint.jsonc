@@ -4,7 +4,7 @@
   "MD001": true, // Header levels should only increment by one level at a time
   "MD002": true, // First heading should be a top-level heading
   "MD003": { "style": "atx" }, // Header style
-  "MD004": true, // Unordered list style
+  "MD004": { "style": "dash" }, // Unordered list style
   "MD005": true, // Inconsistent indentation for list items at the same level
   "MD006": true, // Consider starting bulleted lists at the beginning of the line
   "MD007": { "indent": 2 }, // Unordered list indentation
