@@ -22,6 +22,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
     - [Non-Jewish Zionism](#non-jewish-zionism)
   - [Gaza](#gaza)
   - [Arabs of Israel (48-Palestinians)](#arabs-of-israel-48-palestinians)
+  - [Biographies, Autobiographies \& Memoirs](#biographies-autobiographies--memoirs)
   - [Fiction](#fiction)
 - [Archives](#archives)
 - [Movies](#movies)
@@ -79,7 +80,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
 - 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
-- 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
 
 ### Zionism
 
@@ -103,6 +103,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 📚 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
 - 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
+
+### Biographies, Autobiographies & Memoirs
+
+- 📚 [Out of Place, Edward Said (1999)](https://www.goodreads.com/book/show/22136)
+- 📚 [Three Worlds: Memoir of an Arab-Jew, Avi Shlaim (2023)](https://www.goodreads.com/book/show/62918666)
+- 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
 
 ### Fiction
 
