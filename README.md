@@ -65,6 +65,9 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Palestine: A Four Thousand Year History, Nur Masalha 2018](https://www.goodreads.com/en/book/show/36645450)
 - 📚 [Image and Reality of the Israel-Palestine Conflict, Norman G. Finkelstein 1995](https://www.goodreads.com/en/book/show/169481)
 - 📚 [The Lemon Tree, Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
+- 📚 [Sacred Landscape: The Buried History of the Holy Land since 1948, Meron Benvenisti (2000)](https://www.goodreads.com/book/show/185613.Sacred_Landscape)
+- 📚 [All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948, Walid Khalidi (1992)](https://www.goodreads.com/book/show/205154936-all-that-remains)
+- 📚 [Orientalism, Edward W. Said (1978)](https://www.goodreads.com/book/show/355190.Orientalism)
 
 ### Politics
 
@@ -79,6 +82,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
 - 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
+- 📚 [Palestine in Israeli School Books: Ideology and Propaganda in Education, Nurit Peled-Elhanan (2012)](https://www.goodreads.com/book/show/12581276-palestine-in-israeli-school-books)
 - 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
 
 ### Zionism
