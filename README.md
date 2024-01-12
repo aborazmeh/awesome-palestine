@@ -148,7 +148,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 ![Youtube icon](images/youtube.svg) [Al Nakba Documentary (2014)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847) (multi-lingual)
 - 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![Youtube icon](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
 - 🎬 [Palestine Is Still the Issue (2002)](https://johnpilger.com/videos/palestine-is-still-the-issue)|![Youtube icon](images/youtube.svg)[Palestine Is Still the Issue (2002)](https://www.youtube.com/watch?v=39EjqBrJBAc&ab_channel=rxt)
-- 🎬 [ Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
+- 🎬 [Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
 
 ## Media
 
