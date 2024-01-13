@@ -29,7 +29,7 @@
   "MD030": true, // Spaces after list markers
   "MD031": true, // Fenced code blocks should be surrounded by blank lines
   "MD032": true, // Lists should be surrounded by blank lines
-  "MD033": { "allowed_elements": ["div", "a"] }, // Inline HTML
+  "MD033": { "allowed_elements": ["div", "a", "img"] }, // Inline HTML
   "MD034": true, // Bare URL used
   "MD035": { "style": "---" }, // Horizontal rule style
   "MD036": true, // Emphasis used instead of a heading
