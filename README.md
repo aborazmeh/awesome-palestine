@@ -169,6 +169,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [If Americans Knew](https://ifamericansknew.org)
 - 🌐 [The Grayzone](https://thegrayzone.com/)
 - 🌐 [CounterPunch](https://www.counterpunch.org/)
+- 🌐 [The Intercept](https://theintercept.com/)
 
 ## War Supporting Companies
 
