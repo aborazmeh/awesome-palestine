@@ -23,6 +23,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
     - [Non-Jewish Zionism](#non-jewish-zionism)
   - [Gaza](#gaza)
   - [Arabs of Israel (48-Palestinians)](#arabs-of-israel-48-palestinians)
+  - [Biographies, Autobiographies \& Memoirs](#biographies-autobiographies--memoirs)
   - [Fiction](#fiction)
 - [Archives](#archives)
 - [Movies](#movies)
@@ -83,6 +84,9 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Palestine: A Four Thousand Year History, Nur Masalha 2018](https://www.goodreads.com/en/book/show/36645450)
 - 📚 [Image and Reality of the Israel-Palestine Conflict, Norman G. Finkelstein 1995](https://www.goodreads.com/en/book/show/169481)
 - 📚 [The Lemon Tree, Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
+- 📚 [Sacred Landscape: The Buried History of the Holy Land since 1948, Meron Benvenisti (2000)](https://www.goodreads.com/book/show/185613.Sacred_Landscape)
+- 📚 [All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948, Walid Khalidi (1992)](https://www.goodreads.com/book/show/205154936-all-that-remains)
+- 📚 [Orientalism, Edward W. Said (1978)](https://www.goodreads.com/book/show/355190.Orientalism)
 
 ### Politics
 
@@ -97,8 +101,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
 - 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
+- 📚 [Palestine in Israeli School Books: Ideology and Propaganda in Education, Nurit Peled-Elhanan (2012)](https://www.goodreads.com/book/show/12581276-palestine-in-israeli-school-books)
 - 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
-- 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
 
 ### Zionism
 
@@ -123,6 +127,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
 - 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
 
+### Biographies, Autobiographies & Memoirs
+
+- 📚 [Out of Place, Edward Said (1999)](https://www.goodreads.com/book/show/22136)
+- 📚 [Three Worlds: Memoir of an Arab-Jew, Avi Shlaim (2023)](https://www.goodreads.com/book/show/62918666)
+- 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
+
 ### Fiction
 
 - 📚 [The Woman from Tantoura: A Palestinian Novel, Radwa Ashour (2010)](https://www.goodreads.com/book/show/17678418)
@@ -144,11 +154,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📸 [Hidden Palestine](https://hiddenpalestine.com)
 - 🗃️ [Palestine Land Society](https://www.plands.org/en)
 - 🗃️ [Zochrot](https://www.zochrot.org/welcome/index/en)
+- 🗃️ [Balfour Project](https://balfourproject.org)
 
 ## Movies
 
 - 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
-- 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
+- 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 - 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034) | ![Youtube icon](images/youtube.svg) [TANTURA - Documentary](https://www.youtube.com/watch?v=qIs6lTt6I8k)
 - 🎬 [A Reel War: Shalal (2023)](https://jfi.org/year-round/jfi-on-demand/a-reel-war-shalal-x8731) | ![Youtube icon](images/youtube.svg) [Trailer](https://www.youtube.com/watch?v=mvMwJyZ4qqs)
@@ -159,6 +170,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 [Five Broken Cameras (2011)](https://www.imdb.com/title/tt2125423) | ![Youtube icon](images/youtube.svg) [Five Broken Cameras (2011)](https://www.youtube.com/watch?v=SI37liwTIYI)
 - 🎬 ![Youtube icon](images/youtube.svg) [Al Nakba Documentary (2014)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847) (multi-lingual)
 - 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![Youtube icon](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
+- 🎬 [Palestine Is Still the Issue (2002)](https://johnpilger.com/videos/palestine-is-still-the-issue)|![Youtube icon](images/youtube.svg)[Palestine Is Still the Issue (2002)](https://www.youtube.com/watch?v=39EjqBrJBAc&ab_channel=rxt)
+- 🎬 [Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
 
 ## Media
 
@@ -177,6 +190,9 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [The Real News Network](https://therealnews.com/tag/palestine)
 - 🌐 [Novara Media](https://novaramedia.com/) | ![Spotify icon](images/spotify.svg) [Novara Media](https://open.spotify.com/show/3KtmyPhvQ2FvhwdRNo5I1N) | ![Spotify icon](images/spotify.svg) [Novara Live](https://open.spotify.com/show/3HK3Uw3kX7iHnXfMnoLV6x)
 - 🌐 [If Americans Knew](https://ifamericansknew.org)
+- 🌐 [The Grayzone](https://thegrayzone.com/)
+- 🌐 [CounterPunch](https://www.counterpunch.org/)
+- 🌐 [The Intercept](https://theintercept.com/)
 
 ## War Supporting Companies
 
@@ -186,6 +202,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐🇹🇷 [Boykot Ürünleri](https://boykoturunleri.com.tr)
 - 🌐🇹🇷 [Boykot.co](https://www.boykot.co)
 - 🌐🇹🇷 [Boykot Hareketi](https://boykothareketi.com/)
+- 🌐 [A Collection of War Supporting Companies Lists](https://freepalestine1948.gitbook.io/boycott)
 
 ## Open-Source Intelligence
 
@@ -208,6 +225,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 𝕏 [Mohammed El-Kurd](https://twitter.com/m7mdkurd)
 - 🌐 [Jonathan Cook](https://www.jonathan-cook.net/)
 - 🌐 [Palestine Legal: to protect the rights of people in the U.S. who speak out for Palestinian freedom](https://palestinelegal.org)
+- 🌐 [Na'amod: British Jews Against Occupation](https://naamod.org.uk/)
 
 ## Donations
 
@@ -224,6 +242,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌱[LaunchGood - Support Hospitals In Gaza](https://www.launchgood.com/WithGaza)
 - 🌱🇸🇦 [King Salman Humanitarian Aid and Relief Center / مركز الملك سلمان للإغاثة والأعمال الإنسانية](https://sahem.ksrelief.org/Pages/ProgramDetails/1ca8852b-9e6d-ee11-b83f-005056ac5498)
 - 🌱🇬🇧 [MAP - Medical Aid for Palestinians](https://www.map.org.uk/)
+- 🌱🇬🇧 [One Nation - Gaza Emergency Appeal](https://onenationuk.org/gazaemergency)
 
 ## Petitions
 
@@ -247,6 +266,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ---
 
-<div align="center" style="font-weight=bold">ll/
+<div align="center">
 Show some ❤️ for humanity by sharing <a href="https://github.com/aborazmeh/awesome-palestine" target="_blank">this repository</a> with others.
 </div>
