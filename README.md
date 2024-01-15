@@ -14,6 +14,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - [Official](#official)
 - [Documents \& Reports](#documents--reports)
+  - [Civilian Causalities Since 7th October](#civilian-causalities-since-7th-october)
 - [Essays \& Articles](#essays--articles)
 - [Books](#books)
   - [History](#history)
@@ -48,7 +49,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
   - 📄 [Anti-Palestinian Racism Factsheet by Canadians for Justice in Palestine and the Middle East](documents/factsheet-on-anti-palestinianracism.pdf)
 - 📄 [International Court of Justice application alleging Genocide in Gaza, filed 29 December 2023](documents/icj-2023-12-29.pdf)
   - 📄 [Summary by John Mearsheimer](https://mearsheimer.substack.com/p/genocide-in-gaza)
-- 📄 [Detailed list of the civilian causalities between 7-26 October](documents/martyrs-7-26-october.pdf)
 - 📄 [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine) | 📄 [Human Rights Watch - Reports](https://www.hrw.org/publications?country%5B0%5D=9638)
 - 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
 - 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
@@ -57,6 +57,13 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📄 [Al-Haq](https://www.alhaq.org)
 - 📄 [Palestinian Return Centre](https://prc.org.uk)
 - 📄 [Madar Center](https://www.madarcenter.org)
+
+### Civilian Causalities Since 7th October
+
+- 📄 [Detailed list of the civilian causalities between 7-26 October](documents/martyrs-7-26-october.en.pdf) - English
+- 📄 [Detailed list of the children causalities between 7-26 October](documents/children-7-26-october.en.pdf) - English
+- 📄 [Detailed list of the civilian causalities including children between 7-26 October](documents/martyrs-7-26-october.ar.pdf) - Arabic
+- 📄 [Detailed list of the civilian causalities between 7 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
 
 ## Essays & Articles
 
