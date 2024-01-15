@@ -14,6 +14,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - [Official](#official)
 - [Documents \& Reports](#documents--reports)
+- [Essays \& Articles](#essays--articles)
 - [Books](#books)
   - [History](#history)
   - [Politics](#politics)
@@ -34,6 +35,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - [Petitions](#petitions)
 - [Pro-Palestine Websites](#pro-palestine-websites)
 - [APIs](#apis)
+- [Contributors](#contributors)
 
 ## Official
 
@@ -56,6 +58,23 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📄 [Palestinian Return Centre](https://prc.org.uk)
 - 📄 [Madar Center](https://www.madarcenter.org)
 
+## Essays & Articles
+
+- 📄 [I can't sleep (Paul Biggar - Dec 14, 2023)](https://blog.paulbiggar.com/i-cant-sleep/)
+- 📄 [Israel imposing apartheid on Palestinians, says former Mossad chief (The Guardian, Sep 6, 2023)](https://www.theguardian.com/world/2023/sep/06/israel-imposing-apartheid-on-palestinians-says-former-mossad-chief)
+- 📄 [What Gives Israel the Right to Annihilate Gaza? (Yves Smith/Naked Capitalism, October 31, 2023)](https://www.nakedcapitalism.com/2023/10/what-gives-israel-the-right-to-annihilate-gaza.html)
+- > Yaakov Sharett (July 26, 1927 - May 19, 2022) was the son of Israel's first
+  > foreign minister and second prime minister, Moshe Sharett. He served in the
+  > Palmach (elite fighting force of the Haganah), and had worked in the Shin Bet
+  > and the Nativ. The following are interviews he gave to Haaretz and Middle East
+  > Eye in his final years.
+- 📄 [We are living by the sword: The regrets of an Israel founder's son (MiddleEastEye, Jan 13, 2020)](https://www.middleeasteye.net/big-story/yaakov-sharett-zionism-israel-palestinians-nakba-negev)
+- 📄 [Israel Was Born in Sin. I'm Collaborating With a Criminal Country, Says Former PM's Son (Haaretz, Sep 19, 2021)](https://web.archive.org/web/20220525211442/https://www.haaretz.com/israel-news/2021-09-19/ty-article-magazine/.highlight/former-pms-son-israel-was-born-in-sin-im-collaborating-with-a-criminal-country/0000017f-edac-d3be-ad7f-ffaf5ae70000)
+- 📄 [Apartheid state: Israel's fears over image in US are coming to pass (The Guardian, Feb 3, 2022)](https://www.theguardian.com/world/2022/feb/03/israel-apartheid-us-image)
+- 📄 [Why I no longer stand with Israel, and never will again (Scott Ritter, Oct 13, 2023)](https://www.scottritterextra.com/p/why-i-no-longer-stand-with-israel)
+- 📄 [The Nakba (Lalkar, issue: nov/dec 2023)](http://www.lalkar.org/article/4298/the-nakba)
+- 📄 [I have long rejected claims that Israel is an apartheid state. Now I believe that is where it is heading (The Guardian, Aug 19, 2023)](https://www.theguardian.com/commentisfree/2023/aug/19/israel-apartheid-state-south-africa-netanyahu)
+
 ## Books
 
 ### History
@@ -65,6 +84,9 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Palestine: A Four Thousand Year History, Nur Masalha 2018](https://www.goodreads.com/en/book/show/36645450)
 - 📚 [Image and Reality of the Israel-Palestine Conflict, Norman G. Finkelstein 1995](https://www.goodreads.com/en/book/show/169481)
 - 📚 [The Lemon Tree, Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
+- 📚 [Sacred Landscape: The Buried History of the Holy Land since 1948, Meron Benvenisti (2000)](https://www.goodreads.com/book/show/185613.Sacred_Landscape)
+- 📚 [All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948, Walid Khalidi (1992)](https://www.goodreads.com/book/show/205154936-all-that-remains)
+- 📚 [Orientalism, Edward W. Said (1978)](https://www.goodreads.com/book/show/355190.Orientalism)
 
 ### Politics
 
@@ -79,6 +101,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
 - 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
+- 📚 [Palestine in Israeli School Books: Ideology and Propaganda in Education, Nurit Peled-Elhanan (2012)](https://www.goodreads.com/book/show/12581276-palestine-in-israeli-school-books)
 - 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
 
 ### Zionism
@@ -148,6 +171,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 ![Youtube icon](images/youtube.svg) [Al Nakba Documentary (2014)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847) (multi-lingual)
 - 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![Youtube icon](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
 - 🎬 [Palestine Is Still the Issue (2002)](https://johnpilger.com/videos/palestine-is-still-the-issue)|![Youtube icon](images/youtube.svg)[Palestine Is Still the Issue (2002)](https://www.youtube.com/watch?v=39EjqBrJBAc&ab_channel=rxt)
+- 🎬 [Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
 
 ## Media
 
@@ -168,6 +192,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [If Americans Knew](https://ifamericansknew.org)
 - 🌐 [The Grayzone](https://thegrayzone.com/)
 - 🌐 [CounterPunch](https://www.counterpunch.org/)
+- 🌐 [The Intercept](https://theintercept.com/)
+- 🌐 [Double Down News](https://www.doubledown.news)
 
 ## War Supporting Companies
 
@@ -238,6 +264,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## APIs
 
 - 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/Zain-ul-din/awesome-palestine-apis)
+
+## Contributors
+
+<a href="https://github.com/aborazmeh/awesome-palestine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aborazmeh/awesome-palestine" alt="contributors" />
+</a>
 
 ---
 
