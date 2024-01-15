@@ -60,10 +60,10 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### Civilian Causalities Since 7th October
 
-- 📄 [Detailed list of the civilian causalities between 7-26 October](documents/martyrs-7-26-october.en.pdf) - English
-- 📄 [Detailed list of the children causalities between 7-26 October](documents/children-7-26-october.en.pdf) - English
-- 📄 [Detailed list of the civilian causalities including children between 7-26 October](documents/martyrs-7-26-october.ar.pdf) - Arabic
-- 📄 [Detailed list of the civilian causalities between 7 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
+- 📄 [Detailed list of the civilian causalities between 07-26 October](documents/martyrs-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the children causalities between 07-26 October](documents/children-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the civilian causalities including children between 07-26 October](documents/martyrs-07-26-october.ar.pdf) - Arabic
+- 📄 [Detailed list of the civilian causalities between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
 
 ## Essays & Articles
 
