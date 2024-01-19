@@ -251,6 +251,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌱🇸🇦 [King Salman Humanitarian Aid and Relief Center / مركز الملك سلمان للإغاثة والأعمال الإنسانية](https://sahem.ksrelief.org/Pages/ProgramDetails/1ca8852b-9e6d-ee11-b83f-005056ac5498)
 - 🌱🇬🇧 [MAP - Medical Aid for Palestinians](https://www.map.org.uk/)
 - 🌱🇬🇧 [One Nation - Gaza Emergency Appeal](https://onenationuk.org/gazaemergency)
+- 🌱🇵🇸 [Sulala Animal Rescue](https://sulalaanimalrescue.com/)
 
 ## Petitions
 
