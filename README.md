@@ -67,20 +67,17 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Essays & Articles
 
-- 📄 [I can't sleep (Paul Biggar - Dec 14, 2023)](https://blog.paulbiggar.com/i-cant-sleep/)
-- 📄 [Israel imposing apartheid on Palestinians, says former Mossad chief (The Guardian, Sep 6, 2023)](https://www.theguardian.com/world/2023/sep/06/israel-imposing-apartheid-on-palestinians-says-former-mossad-chief)
-- 📄 [What Gives Israel the Right to Annihilate Gaza? (Yves Smith/Naked Capitalism, October 31, 2023)](https://www.nakedcapitalism.com/2023/10/what-gives-israel-the-right-to-annihilate-gaza.html)
-- > Yaakov Sharett (July 26, 1927 - May 19, 2022) was the son of Israel's first
-  > foreign minister and second prime minister, Moshe Sharett. He served in the
-  > Palmach (elite fighting force of the Haganah), and had worked in the Shin Bet
-  > and the Nativ. The following are interviews he gave to Haaretz and Middle East
-  > Eye in his final years.
-- 📄 [We are living by the sword: The regrets of an Israel founder's son (MiddleEastEye, Jan 13, 2020)](https://www.middleeasteye.net/big-story/yaakov-sharett-zionism-israel-palestinians-nakba-negev)
-- 📄 [Israel Was Born in Sin. I'm Collaborating With a Criminal Country, Says Former PM's Son (Haaretz, Sep 19, 2021)](https://web.archive.org/web/20220525211442/https://www.haaretz.com/israel-news/2021-09-19/ty-article-magazine/.highlight/former-pms-son-israel-was-born-in-sin-im-collaborating-with-a-criminal-country/0000017f-edac-d3be-ad7f-ffaf5ae70000)
-- 📄 [Apartheid state: Israel's fears over image in US are coming to pass (The Guardian, Feb 3, 2022)](https://www.theguardian.com/world/2022/feb/03/israel-apartheid-us-image)
-- 📄 [Why I no longer stand with Israel, and never will again (Scott Ritter, Oct 13, 2023)](https://www.scottritterextra.com/p/why-i-no-longer-stand-with-israel)
-- 📄 [The Nakba (Lalkar, issue: nov/dec 2023)](http://www.lalkar.org/article/4298/the-nakba)
-- 📄 [I have long rejected claims that Israel is an apartheid state. Now I believe that is where it is heading (The Guardian, Aug 19, 2023)](https://www.theguardian.com/commentisfree/2023/aug/19/israel-apartheid-state-south-africa-netanyahu)
+- 📰 [I Can't Sleep, by Paul Biggar (December 14, 2023)](https://blog.paulbiggar.com/i-cant-sleep)
+- 📰 [The Nakba **\[Lalkar\]** (December 1, 2023)](http://www.lalkar.org/article/4298/the-nakba)
+- 📰 [What Gives Israel the Right to Annihilate Gaza?, by Yves Smith **\[Naked Capitalism\]** (October 31, 2023)](https://www.nakedcapitalism.com/2023/10/what-gives-israel-the-right-to-annihilate-gaza.html)
+  > Yaakov Sharett (July 26, 1927 - May 19, 2022) was the son of Israel's first foreign minister and second prime minister, Moshe Sharett. He served in the Palmach (elite fighting force of the Haganah), and had worked in the Shin Bet and the Nativ. The following are interviews he gave to Haaretz and Middle East Eye in his final years.
+- 📰 [Why I No Longer Stand With Israel, and Never Will Again, by Scott Ritter (October 13, 2023)](https://www.scottritterextra.com/p/why-i-no-longer-stand-with-israel)
+- 📰 [Israel Imposing Apartheid on Palestinians, Says Former Mossad Chief, by Chris McGreal **\[The Guardian\]** (September 6, 2023)](https://www.theguardian.com/world/2023/sep/06/israel-imposing-apartheid-on-palestinians-says-former-mossad-chief)
+- 📰 [I Have Long Rejected Claims That Israel Is an Apartheid State. Now I Believe That Is Where It Is Heading, by Benjamin Pogrund **\[The Guardian\]** (August 19, 2023)](https://www.theguardian.com/commentisfree/2023/aug/19/israel-apartheid-state-south-africa-netanyahu)
+- 📰 [Apartheid State: Israel's Fears Over Image in US Are Coming to Pass, by Chris McGreal **\[The Guardian\]** (March 2, 2022)](https://www.theguardian.com/world/2022/feb/03/israel-apartheid-us-image)
+- 📰 [Israel Was Born in Sin. I'm Collaborating With a Criminal Country, Says Former PM's Son, by Ofer Aderet **\[Haaretz\]** (September 19, 2021)](https://www.haaretz.com/israel-news/2021-09-19/ty-article-magazine/.highlight/former-pms-son-israel-was-born-in-sin-im-collaborating-with-a-criminal-country/0000017f-edac-d3be-ad7f-ffaf5ae70000)
+- 📰 [A Day in the Life of Abed Salama, by Nathan Thrall **\[The New York Review\]** (March 19, 2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
+- 📰 [We Are Living by the Sword: The Regrets of an Israel Founder's Son **\[Middle East Eye\]** (January 13, 2020)](https://www.middleeasteye.net/big-story/yaakov-sharett-zionism-israel-palestinians-nakba-negev)
 
 ## Books
 
