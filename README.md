@@ -162,20 +162,20 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Movies
 
-- 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
-- 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
-- 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
-- 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034) | ![Youtube icon](images/youtube.svg) [TANTURA - Documentary](https://www.youtube.com/watch?v=qIs6lTt6I8k)
 - 🎬 [A Reel War: Shalal (2023)](https://jfi.org/year-round/jfi-on-demand/a-reel-war-shalal-x8731) | ![Youtube icon](images/youtube.svg) [Trailer](https://www.youtube.com/watch?v=mvMwJyZ4qqs)
+- 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance) | ![Youtube icon](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
+- 🎬 [Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
+- 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034) | ![Youtube icon](images/youtube.svg) [TANTURA - Documentary](https://www.youtube.com/watch?v=qIs6lTt6I8k)
+- 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
 - 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106)
+- 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![Youtube icon](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
 - 🎬 [1948: Creation & Catastrophe (2017)](https://www.imdb.com/title/tt7977026/) | 🌐 [1948: Creation & Catastrophe (2017)](1948movie.com) | ![Youtube icon](images/youtube.svg) [1948: Creation & Catastrophe (2017)](https://www.youtube.com/watch?v=Bwy-Rf15UIs)
-- 🎬 [On the Brink: Jenin’s rising resistance (2023)](https://mondoweiss.net/2023/03/on-the-brink-jenins-rising-resistance) | ![Youtube icon](images/youtube.svg) [On the Brink: Jenin’s rising resistance (2023)](https://www.youtube.com/watch?v=NKEdxHEQz00)
-- 🎬 [Five Broken Cameras (2011)](https://www.imdb.com/title/tt2125423) | ![Youtube icon](images/youtube.svg) [Five Broken Cameras (2011)](https://www.youtube.com/watch?v=SI37liwTIYI)
+- 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 - 🎬 ![Youtube icon](images/youtube.svg) [Al Nakba Documentary (2014)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847) (multi-lingual)
 - 🎬 [من أي رفح أنت؟ (2013)](https://www.aljazeera.net/programs/al-jazeeraspecialprograms/2014/8/6/%D9%85%D9%86-%D8%A3%D9%8A-%D8%B1%D9%81%D8%AD-%D8%A3%D9%86%D8%AA) | ![Youtube icon](images/youtube.svg) [من أي رفح أنت؟ (2013)](https://www.youtube.com/watch?v=oy_AtxpIQBw)
+- 🎬 [Five Broken Cameras (2011)](https://www.imdb.com/title/tt2125423) | ![Youtube icon](images/youtube.svg) [Five Broken Cameras (2011)](https://www.youtube.com/watch?v=SI37liwTIYI)
 - 🎬 [Palestine Is Still the Issue (2002)](https://johnpilger.com/videos/palestine-is-still-the-issue)|![Youtube icon](images/youtube.svg)[Palestine Is Still the Issue (2002)](https://www.youtube.com/watch?v=39EjqBrJBAc&ab_channel=rxt)
-- 🎬 [Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
 
 ## Media
 
