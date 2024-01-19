@@ -83,65 +83,65 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### History
 
-- 📚 [The Ethnic Cleansing of Palestine, Ilan Pappé (2006)](https://www.goodreads.com/book/show/57540)
-- 📚 [The Hundred Years' War on Palestine: A History of Settler-Colonial Conquest and Resistance, 1917-2017, Rashid Khalidi (2020)](https://www.goodreads.com/book/show/41812831)
-- 📚 [Palestine: A Four Thousand Year History, Nur Masalha 2018](https://www.goodreads.com/en/book/show/36645450)
-- 📚 [Image and Reality of the Israel-Palestine Conflict, Norman G. Finkelstein 1995](https://www.goodreads.com/en/book/show/169481)
-- 📚 [The Lemon Tree, Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
-- 📚 [Sacred Landscape: The Buried History of the Holy Land since 1948, Meron Benvenisti (2000)](https://www.goodreads.com/book/show/185613.Sacred_Landscape)
-- 📚 [All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948, Walid Khalidi (1992)](https://www.goodreads.com/book/show/205154936-all-that-remains)
-- 📚 [Orientalism, Edward W. Said (1978)](https://www.goodreads.com/book/show/355190.Orientalism)
+- 📚 [The Hundred Years' War on Palestine: A History of Settler-Colonial Conquest and Resistance, 1917-2017, by Rashid Khalidi (2020)](https://www.goodreads.com/book/show/41812831)
+- 📚 [Palestine: A Four Thousand Year History, by Nur Masalha (2018)](https://www.goodreads.com/en/book/show/36645450)
+- 📚 [The Ethnic Cleansing of Palestine, by Ilan Pappé (2006)](https://www.goodreads.com/book/show/57540)
+- 📚 [The Lemon Tree, by Sandy Tolan (2006)](https://www.goodreads.com/en/book/show/151740)
+- 📚 [Sacred Landscape: The Buried History of the Holy Land since 1948, by Meron Benvenisti (2000)](https://www.goodreads.com/book/show/185613.Sacred_Landscape)
+- 📚 [Image and Reality of the Israel-Palestine Conflict, by Norman G. Finkelstein (1995)](https://www.goodreads.com/en/book/show/169481)
+- 📚 [All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948, by Walid Khalidi (1992)](https://www.goodreads.com/book/show/205154936-all-that-remains)
+- 📚 [Orientalism, by Edward W. Said (1978)](https://www.goodreads.com/book/show/355190.Orientalism)
 
 ### Politics
 
-- 📚 [Fateful Triangle: The United States, Israel, and the Palestinians, Noam Chomsky (1982)](https://www.goodreads.com/book/show/62698)
-- 📚 [The Israel Lobby and U.S. Foreign Policy, John J. Mearsheimer & Stephen M. Walt (2006)](https://www.goodreads.com/book/show/224127)
-- 📚 [Palestine Peace Not Apartheid, Jimmy Carter (2006)](https://www.goodreads.com/book/show/9345)
+- 📚 [The Israel Lobby and U.S. Foreign Policy, by John J. Mearsheimer & Stephen M. Walt (2006)](https://www.goodreads.com/book/show/224127)
+- 📚 [Palestine Peace Not Apartheid, by Jimmy Carter (2006)](https://www.goodreads.com/book/show/9345)
+- 📚 [Fateful Triangle: The United States, Israel, and the Palestinians, by Noam Chomsky (1982)](https://www.goodreads.com/book/show/62698)
 
 ### Israel
 
-- 📚 [Ten Myths About Israel, Ilan Pappé (2017)](https://www.goodreads.com/book/show/31171856)
-- 📚 [The State of Israel vs. the Jews - Sylvain Cypel (2021)](https://www.goodreads.com/book/show/57067707)
-- 📚 [Justice for Some: Law and the Question of Palestine, Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
-- 📚 [Hollow Land: Israel's Architecture of Occupation, Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
-- 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy - Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745) | 📰 [A Day in the Life of Abed Salama (2021)](https://www.nybooks.com/daily/2021/03/19/a-day-in-the-life-of-abed-salama)
-- 📚 [Palestine in Israeli School Books: Ideology and Propaganda in Education, Nurit Peled-Elhanan (2012)](https://www.goodreads.com/book/show/12581276-palestine-in-israeli-school-books)
-- 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
+- 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy, by Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745)
+- 📚 [The State of Israel vs. the Jews, by Sylvain Cypel (2021)](https://www.goodreads.com/book/show/57067707)
+- 📚 [Justice for Some: Law and the Question of Palestine, by Noura Erakat (2019)](https://www.goodreads.com/book/show/43154949)
+- 📚 [Ten Myths About Israel, by Ilan Pappé (2017)](https://www.goodreads.com/book/show/31171856)
+- 📚 [Palestine in Israeli School Books: Ideology and Propaganda in Education, by Nurit Peled-Elhanan (2012)](https://www.goodreads.com/book/show/12581276-palestine-in-israeli-school-books)
+- 📚 [من هم اليهود؟ وما هي اليهودية؟ أسئلة الهوية وأزمة الدولة اليهودية، by عبد الوهاب المسيري (2008)](https://www.goodreads.com/book/show/5619985)
+- 📚 [Hollow Land: Israel's Architecture of Occupation, by Eyal Weizman (2007)](https://www.goodreads.com/book/show/1086651)
 
 ### Zionism
 
-- 📚 [موسوعة اليهود واليهودية والصهيونية، عبد الوهاب المسيري (1999)](https://www.goodreads.com/series/265200)
-- 📚 [موسوعة اليهود واليهودية والصهيونية الموجزة، عبد الوهاب المسيري (1999)](https://www.goodreads.com/series/265199)
+- 📚 [موسوعة اليهود واليهودية والصهيونية، by عبد الوهاب المسيري (1999)](https://www.goodreads.com/series/265200)
+- 📚 [موسوعة اليهود واليهودية والصهيونية الموجزة، by عبد الوهاب المسيري (1999)](https://www.goodreads.com/series/265199)
 
 #### Non-Jewish Zionism
 
-- 📚 [Non-Jewish Zionism: Its Roots in Western History, Regina Sharif (1983)](https://www.goodreads.com/book/show/9507130)
-- 📚 [Forcing God's Hand: Why Millions Pray for a Quick Rapture and Destruction of Planet Earth, Grace Halsell (2000)](https://www.goodreads.com/book/show/525278)
-- 📚 [Prophecy and Politics: Militant Evangelists on the Road to Nuclear War, Grae Halsell (1986)](https://www.goodreads.com/book/show/729879)
+- 📚 [Forcing God's Hand: Why Millions Pray for a Quick Rapture and Destruction of Planet Earth, by Grace Halsell (2000)](https://www.goodreads.com/book/show/525278)
+- 📚 [Prophecy and Politics: Militant Evangelists on the Road to Nuclear War, by Grae Halsell (1986)](https://www.goodreads.com/book/show/729879)
+- 📚 [Non-Jewish Zionism: Its Roots in Western History, by Regina Sharif (1983)](https://www.goodreads.com/book/show/9507130)
 
 ### Gaza
 
-- 📚 [Gaza: An Inquest into Its Martyrdom, Norman G. Finkelstein (2018)](https://www.goodreads.com/book/show/35070437)
-- 📚 [The Biggest Prison on Earth: A History of the Occupied Territories, Ilan Pappé (2016)](https://www.goodreads.com/book/show/2856775)
-- 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
-- 📚 [This Time We Went Too Far: Truth & Consequences of the Gaza Invasion, Norman G. Finkelstein (2010)](https://www.goodreads.com/book/show/8064852)
+- 📚 [Gaza: An Inquest into Its Martyrdom, by Norman G. Finkelstein (2018)](https://www.goodreads.com/book/show/35070437)
+- 📚 [The Biggest Prison on Earth: A History of the Occupied Territories, by Ilan Pappé (2016)](https://www.goodreads.com/book/show/2856775)
+- 📚 [This Time We Went Too Far: Truth & Consequences of the Gaza Invasion, by Norman G. Finkelstein (2010)](https://www.goodreads.com/book/show/8064852)
+- 📚 [Failing Peace: Gaza and the Palestinian-Israeli Conflict, by Sara Roy (2006)](https://www.goodreads.com/book/show/654400)
 
 ### Arabs of Israel (48-Palestinians)
 
-- 📚 [The Forgotten Palestinians: A History of the Palestinians in Israel, Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
-- 📖 [The Palestinians in Israel: Readings in History, Politics and Society, Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
+- 📚 [The Forgotten Palestinians: A History of the Palestinians in Israel, by Ilan Pappé (2013)](https://www.goodreads.com/en/book/show/11249577)
+- 📖 [The Palestinians in Israel: Readings in History, Politics and Society, by Nadim N. Rouhana & Areej Sabbagh-Khoury (Eds.) (2011)](https://www.academia.edu/10514312/The_Palestinains_in_Israel_Readings_in_History_Politics_and_Society)
 
 ### Biographies, Autobiographies & Memoirs
 
-- 📚 [Out of Place, Edward Said (1999)](https://www.goodreads.com/book/show/22136)
-- 📚 [Three Worlds: Memoir of an Arab-Jew, Avi Shlaim (2023)](https://www.goodreads.com/book/show/62918666)
-- 📚 [The General's Son: Journey of an Israeli in Palestine, Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
+- 📚 [Three Worlds: Memoir of an Arab-Jew, by Avi Shlaim (2023)](https://www.goodreads.com/book/show/62918666)
+- 📚 [The General's Son: Journey of an Israeli in Palestine, by Miko Peled (2012)](https://www.goodreads.com/en/book/show/14649174)
+- 📚 [Out of Place, by Edward W. Said (1999)](https://www.goodreads.com/book/show/22136)
 
 ### Fiction
 
-- 📚 [The Woman from Tantoura: A Palestinian Novel, Radwa Ashour (2010)](https://www.goodreads.com/book/show/17678418)
-- 📚 [Palestine's Children: Returning to Haifa & Other Stories, Ghassan Kanafani (1984)](https://www.goodreads.com/book/show/125252)
-- 📚 [Men in the Sun, Ghassan Kanafani (1963)](https://www.goodreads.com/book/show/3429641)
+- 📚 [The Woman from Tantoura: A Palestinian Novel, by Radwa Ashour (2010)](https://www.goodreads.com/book/show/17678418)
+- 📚 [Palestine's Children: Returning to Haifa & Other Stories, by Ghassan Kanafani (1984)](https://www.goodreads.com/book/show/125252)
+- 📚 [Men in the Sun, by Ghassan Kanafani (1963)](https://www.goodreads.com/book/show/3429641)
 
 ## Archives
 
