@@ -208,6 +208,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐🇹🇷 [Boykot.co](https://www.boykot.co)
 - 🌐🇹🇷 [Boykot Hareketi](https://boykothareketi.com/)
 - 🌐 [A Collection of War Supporting Companies Lists](https://freepalestine1948.gitbook.io/boycott)
+- 🌐 [Mustaghni](https://mustaghni.org)
 
 ## Open-Source Intelligence
 
