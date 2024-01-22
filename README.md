@@ -45,9 +45,9 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ## Documents & Reports
 
-- 📄 [Anti-Palestinian Racism Framework by the Arab Canadian Lawyers Association](documents/anti-palestinian-racism-naming-framing-and-manifestations.pdf)
-  - 📄 [Anti-Palestinian Racism Factsheet by Canadians for Justice in Palestine and the Middle East](documents/factsheet-on-anti-palestinianracism.pdf)
-- 📄 [International Court of Justice application alleging Genocide in Gaza, filed 29 December 2023](documents/icj-2023-12-29.pdf)
+- 📄 [Anti-Palestinian Racism Framework by the Arab Canadian Lawyers Association](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/anti-palestinian-racism-naming-framing-and-manifestations.pdf)
+  - 📄 [Anti-Palestinian Racism Factsheet by Canadians for Justice in Palestine and the Middle East](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/factsheet-on-anti-palestinianracism.pdf)
+- 📄 [International Court of Justice application alleging Genocide in Gaza, filed 29 December 2023](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/icj-2023-12-29.pdf)
   - 📄 [Summary by John Mearsheimer](https://mearsheimer.substack.com/p/genocide-in-gaza)
 - 📄 [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine) | 📄 [Human Rights Watch - Reports](https://www.hrw.org/publications?country%5B0%5D=9638)
 - 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
@@ -60,10 +60,10 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### Civilian Causalities Since 7th October
 
-- 📄 [Detailed list of the civilian causalities between 07-26 October](documents/martyrs-07-26-october.en.pdf) - English
-- 📄 [Detailed list of the children causalities between 07-26 October](documents/children-07-26-october.en.pdf) - English
-- 📄 [Detailed list of the civilian causalities including children between 07-26 October](documents/martyrs-07-26-october.ar.pdf) - Arabic
-- 📄 [Detailed list of the civilian causalities between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
+- 📄 [Detailed list of the civilian causalities between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the children causalities between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/children-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the civilian causalities including children between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.ar.pdf) - Arabic
+- 📄 [Detailed list of the civilian causalities between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
 
 ## Essays & Articles
 
