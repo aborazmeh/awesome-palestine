@@ -266,6 +266,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## Pro-Palestine Websites
 
 - 🌐 [Palestine Side, the Palestine side of Palestine and israel conflict](https://www.palestineside.site/)
+- 🌐 [Palestine Answers, A crowdsourced database of short responses to Zionist lies](https://palianswers.com/)
 
 ## APIs
 
