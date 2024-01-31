@@ -204,6 +204,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 🌐 [Boycott war supporting companies](https://boycott.thewitness.news) | ![Telegram icon](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
 - 🌐 [bdnaash](https://bdnaash.com)
+- 🌐 [BoycottList](https://boycottlist.xyz)
 - 🌐 [boycotzionism](https://www.boycotzionism.com/)
 - 🌐🇹🇷 [Boykot Ürünleri](https://boykoturunleri.com.tr)
 - 🌐🇹🇷 [Boykot.co](https://www.boykot.co)
