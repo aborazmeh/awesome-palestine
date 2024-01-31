@@ -99,7 +99,6 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📚 [Fateful Triangle: The United States, Israel, and the Palestinians, by Noam Chomsky (1982)](https://www.goodreads.com/book/show/62698)
 - 📚 [The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World, by Antony Loewenstein (2023)](https://www.goodreads.com/book/show/62790909)
 
-
 ### Israel
 
 - 📚 [A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy, by Nathan Thrall (2023)](https://www.goodreads.com/book/show/77920745)
