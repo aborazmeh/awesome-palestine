@@ -94,10 +94,10 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### Politics
 
+- 📚 [The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World, by Antony Loewenstein (2023)](https://www.goodreads.com/book/show/62790909)
 - 📚 [The Israel Lobby and U.S. Foreign Policy, by John J. Mearsheimer & Stephen M. Walt (2006)](https://www.goodreads.com/book/show/224127)
 - 📚 [Palestine Peace Not Apartheid, by Jimmy Carter (2006)](https://www.goodreads.com/book/show/9345)
 - 📚 [Fateful Triangle: The United States, Israel, and the Palestinians, by Noam Chomsky (1982)](https://www.goodreads.com/book/show/62698)
-- 📚 [The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World, by Antony Loewenstein (2023)](https://www.goodreads.com/book/show/62790909)
 
 ### Israel
 
