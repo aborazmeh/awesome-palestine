@@ -273,6 +273,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## APIs
 
 - 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/Zain-ul-din/awesome-palestine-apis)
+- 🌐 [Palestine Datasets by TFP](https://data.techforpalestine.org)
 
 ## Contributors
 
