@@ -14,7 +14,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - [Official](#official)
 - [Documents \& Reports](#documents--reports)
-  - [Civilian Causalities Since 7th October](#civilian-causalities-since-7th-october)
+  - [Civilian Casualties Since 7th October](#civilian-casualties-since-7th-october)
 - [Essays \& Articles](#essays--articles)
 - [Books](#books)
   - [History](#history)
@@ -58,12 +58,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📄 [Palestinian Return Centre](https://prc.org.uk)
 - 📄 [Madar Center](https://www.madarcenter.org)
 
-### Civilian Causalities Since 7th October
+### Civilian Casualties Since 7th October
 
-- 📄 [Detailed list of the civilian causalities between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.en.pdf) - English
-- 📄 [Detailed list of the children causalities between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/children-07-26-october.en.pdf) - English
-- 📄 [Detailed list of the civilian causalities including children between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.ar.pdf) - Arabic
-- 📄 [Detailed list of the civilian causalities between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
+- 📄 [Detailed list of the civilian casualties between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the children casualties between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/children-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the civilian casualties including children between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.ar.pdf) - Arabic
+- 📄 [Detailed list of the civilian casualties between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
 
 ## Essays & Articles
 
