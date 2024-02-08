@@ -171,6 +171,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106) | [Boycott (2011) watch on justvision.org](https://justvision.org/boycott/watch)
 - 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![Youtube icon](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
+- 🎬 [The Occupation of the American Mind (2018)](https://www.occupationmovie.org/) | ![Youtube icon](images/youtube.svg)[The Occupation of the American Mind (2018)](https://www.youtube.com/watch?v=dP0-YohJR-g)
 - 🎬 [1948: Creation & Catastrophe (2017)](https://www.imdb.com/title/tt7977026/) | 🌐 [1948: Creation & Catastrophe (2017)](1948movie.com) | ![Youtube icon](images/youtube.svg) [1948: Creation & Catastrophe (2017)](https://www.youtube.com/watch?v=Bwy-Rf15UIs)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 - 🎬 ![Youtube icon](images/youtube.svg) [Al Nakba Documentary (2014)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847) (multi-lingual)
