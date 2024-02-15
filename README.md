@@ -200,6 +200,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [CounterPunch](https://www.counterpunch.org/)
 - 🌐 [The Intercept](https://theintercept.com/)
 - 🌐 [Double Down News](https://www.doubledown.news)
+- 🌐 [MintPress News](https://www.mintpressnews.com/)
 
 ## War Supporting Companies
 
