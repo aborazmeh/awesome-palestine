@@ -254,6 +254,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌱🇬🇧 [MAP - Medical Aid for Palestinians](https://www.map.org.uk/)
 - 🌱🇬🇧 [One Nation - Gaza Emergency Appeal](https://onenationuk.org/gazaemergency)
 - 🌱🇵🇸 [Sulala Animal Rescue](https://sulalaanimalrescue.com/)
+- 🌱🇵🇸 [UMMATY](https://ummaty.org/donate/)
 
 ## Petitions
 
