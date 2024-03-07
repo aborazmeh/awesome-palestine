@@ -241,6 +241,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 🌱 [UNRWA](https://donate.unrwa.org)
 - 🌱 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
+- 🌱 [Gaza Medical Tent Fundraiser](https://www.gofundme.com/f/emergency-medical-relief-for-gaza-via-gmt)
 - 🌱🇹🇷 [İHH İnsani Yardım Vakfı](https://ihh.org.tr)
 - 🌱🇹🇷 [Türk Kızılay- Filistin Genel Bağışı](https://www.kizilay.org.tr/Bagis/BagisYap/32)
 - 🌱 [The Palestinian Medical Relief Society](https://pmrs.ps)
