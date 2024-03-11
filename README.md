@@ -256,6 +256,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌱🇬🇧 [One Nation - Gaza Emergency Appeal](https://onenationuk.org/gazaemergency)
 - 🌱🇵🇸 [Sulala Animal Rescue](https://sulalaanimalrescue.com/)
 - 🌱🇵🇸 [UMMATY](https://ummaty.org/donate/)
+- 🌱🇵🇰 [Al Khidmat Foundation](https://alkhidmat.org/appeal/emergency-appeal-palestine-save-lives-in-gaza-today)
 
 ## Petitions
 
