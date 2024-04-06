@@ -29,7 +29,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - [Archives](#archives)
 - [Movies](#movies)
 - [Media](#media)
-- [War Supporting Companies](#war-supporting-companies)
+- [Boycott](#boycott)
 - [Open-Source Intelligence](#open-source-intelligence)
 - [Activists \& Journalists](#activists--journalists)
 - [Donations](#donations)
@@ -202,7 +202,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [Double Down News](https://www.doubledown.news)
 - 🌐 [MintPress News](https://www.mintpressnews.com/)
 
-## War Supporting Companies
+## Boycott
 
 - 🌐 [Boycott war supporting companies](https://boycott.thewitness.news) | ![Telegram icon](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
 - 🌐 [bdnaash](https://bdnaash.com)
@@ -213,6 +213,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐🇹🇷 [Boykot Hareketi](https://boykothareketi.com/)
 - 🌐 [A Collection of War Supporting Companies Lists](https://freepalestine1948.gitbook.io/boycott)
 - 🌐 [Mustaghni](https://mustaghni.org)
+- 🌐 [Disoccupied.com](https://disoccupied.com)
 
 ## Open-Source Intelligence
 
