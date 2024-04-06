@@ -29,7 +29,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - [Archives](#archives)
 - [Movies](#movies)
 - [Media](#media)
-- [Boycott](#boycott)
+- [War Supporting Companies](#war-supporting-companies)
 - [Open-Source Intelligence](#open-source-intelligence)
 - [Activists \& Journalists](#activists--journalists)
 - [Donations](#donations)
@@ -202,7 +202,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [Double Down News](https://www.doubledown.news)
 - 🌐 [MintPress News](https://www.mintpressnews.com/)
 
-## Boycott
+## [War Supporting Companies](#war-supporting-companies)
 
 - 🌐 [Boycott war supporting companies](https://boycott.thewitness.news) | ![Telegram icon](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
 - 🌐 [bdnaash](https://bdnaash.com)
