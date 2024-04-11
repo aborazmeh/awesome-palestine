@@ -169,7 +169,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 [Israelism (2023)](https://www.israelismfilm.com/) | [IMDB](https://www.imdb.com/title/tt9636732/)
 - 🎬 [Tantura (2022)](https://www.imdb.com/title/tt16378034) | ![Youtube icon](images/youtube.svg) [TANTURA - Documentary](https://www.youtube.com/watch?v=qIs6lTt6I8k)
 - 🎬 [Farha (2021)](https://www.imdb.com/title/tt11555492/)
-- 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106) | [Boycott (2011) watch on justvision.org](https://justvision.org/boycott/watch)
+- 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106) | [Boycott (2011) watch on Just Vision](https://justvision.org/boycott/watch)
 - 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![Youtube icon](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
 - 🎬 [The Occupation of the American Mind (2018)](https://www.occupationmovie.org/) | ![Youtube icon](images/youtube.svg) [The Occupation of the American Mind (2018)](https://www.youtube.com/watch?v=dP0-YohJR-g)
@@ -280,7 +280,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## Pro-Palestine Websites
 
 - 🌐 [Palestine Side, the Palestine side of Palestine and israel conflict](https://www.palestineside.site/)
-- 🌐 [Palestine Answers, A crowdsourced database of short responses to Zionist lies](https://palianswers.com/)
+- 🌐 [Palestine Answers, A crowd-sourced database of short responses to Zionist lies](https://palianswers.com/)
 
 ## APIs
 
