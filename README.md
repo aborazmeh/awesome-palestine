@@ -220,6 +220,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [A Collection of War Supporting Companies Lists](https://freepalestine1948.gitbook.io/boycott)
 - 🌐 [Mustaghni](https://mustaghni.org)
 - 🌐 [Disoccupied.com](https://disoccupied.com)
+- 🌐 [No Thanks App streamlines barcode scanning and product searches for boycott items](https://play.google.com/store/apps/details?id=com.bashsoftware.boycott)
 
 ## Open-Source Intelligence
 
