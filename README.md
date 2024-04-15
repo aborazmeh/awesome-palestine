@@ -220,7 +220,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [A Collection of War Supporting Companies Lists](https://freepalestine1948.gitbook.io/boycott)
 - 🌐 [Mustaghni](https://mustaghni.org)
 - 🌐 [Disoccupied.com](https://disoccupied.com)
-- 🌐 [No Thanks App streamlines barcode scanning and product searches for boycott items](https://play.google.com/store/apps/details?id=com.bashsoftware.boycott)
+- No Thanks App: streamlines barcode scanning and product searches for boycott items ![Android icon](images/android.svg) [Google Play Store](https://play.google.com/store/apps/details?id=com.bashsoftware.boycott) | ![Apple icon](images/apple.svg) [Apple App Store](https://apps.apple.com/us/app/no-thanks-app/id6476206516)
 
 ## Open-Source Intelligence
 
