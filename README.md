@@ -54,8 +54,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
 - 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
 - 📄 [United Nations Fact Finding Mission on the Gaza Conflict (The Goldstone Report)](https://www.ohchr.org/en/hr-bodies/hrc/special-sessions/session9/fact-finding-mission)
-  > [!WARNING]
-  > Richard Goldstone, the lead author of the report, later wrote an op-ed in [The Washington Post](https://www.washingtonpost.com/opinions/2011/04/01/AFg111JC_story.html) on 1 April 2011 in which he retracted some of the report's conclusions.
+> [!WARNING]
+> Richard Goldstone, the lead author of the report, later wrote an op-ed in [The Washington Post](https://www.washingtonpost.com/opinions/2011/04/01/AFg111JC_story.html) on 1 April 2011 in which he retracted some of the report's conclusions.
 - 📄 [Al-Haq](https://www.alhaq.org)
 - 📄 [Palestinian Return Centre](https://prc.org.uk)
 - 📄 [Madar Center](https://www.madarcenter.org)
@@ -72,7 +72,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📰 [I Can't Sleep, by Paul Biggar (December 14, 2023)](https://blog.paulbiggar.com/i-cant-sleep)
 - 📰 [The Nakba **\[Lalkar\]** (December 1, 2023)](http://www.lalkar.org/article/4298/the-nakba)
 - 📰 [What Gives Israel the Right to Annihilate Gaza?, by Yves Smith **\[Naked Capitalism\]** (October 31, 2023)](https://www.nakedcapitalism.com/2023/10/what-gives-israel-the-right-to-annihilate-gaza.html)
-  > Yaakov Sharett (July 26, 1927 - May 19, 2022) was the son of Israel's first foreign minister and second prime minister, Moshe Sharett. He served in the Palmach (elite fighting force of the Haganah), and had worked in the Shin Bet and the Nativ. The following are interviews he gave to Haaretz and Middle East Eye in his final years.
+> [!Note]
+> Yaakov Sharett (July 26, 1927 - May 19, 2022) was the son of Israel's first foreign minister and second prime minister, Moshe Sharett. He served in the Palmach (elite fighting force of the Haganah), and had worked in the Shin Bet and the Nativ. The following are interviews he gave to Haaretz and Middle East Eye in his final years.
 - 📰 [Why I No Longer Stand With Israel, and Never Will Again, by Scott Ritter (October 13, 2023)](https://www.scottritterextra.com/p/why-i-no-longer-stand-with-israel)
 - 📰 [Israel Imposing Apartheid on Palestinians, Says Former Mossad Chief, by Chris McGreal **\[The Guardian\]** (September 6, 2023)](https://www.theguardian.com/world/2023/sep/06/israel-imposing-apartheid-on-palestinians-says-former-mossad-chief)
 - 📰 [I Have Long Rejected Claims That Israel Is an Apartheid State. Now I Believe That Is Where It Is Heading, by Benjamin Pogrund **\[The Guardian\]** (August 19, 2023)](https://www.theguardian.com/commentisfree/2023/aug/19/israel-apartheid-state-south-africa-netanyahu)
