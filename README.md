@@ -51,7 +51,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📄 [International Court of Justice application alleging Genocide in Gaza, filed 29 December 2023](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/icj-2023-12-29.pdf)
   - 📄 [Summary by John Mearsheimer](https://mearsheimer.substack.com/p/genocide-in-gaza)
 - 📄 [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine) | 📄 [Human Rights Watch - Reports](https://www.hrw.org/publications?country%5B0%5D=9638)
-- 📄 [Amnesty International](https://www.amnestyusa.org/countries/palestine-state-of)
+- 📄 [Amnesty International](https://www.amnesty.org/en/location/palestine-state-of/)
 - 📄 [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org)
 - 📄 [United Nations Fact Finding Mission on the Gaza Conflict (The Goldstone Report)](https://www.ohchr.org/en/hr-bodies/hrc/special-sessions/session9/fact-finding-mission)
 > [!WARNING]
