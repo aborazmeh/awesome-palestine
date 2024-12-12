@@ -144,6 +144,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ### Fiction
 
 - 📚 [The Woman from Tantoura: A Palestinian Novel, by Radwa Ashour (2010)](https://www.goodreads.com/book/show/17678418)
+- 📚 [The Thorn and the Carnation, by Yahya Sinwar (2004)](https://www.goodreads.com/book/show/220581408)
 - 📚 [Palestine's Children: Returning to Haifa & Other Stories, by Ghassan Kanafani (1984)](https://www.goodreads.com/book/show/125252)
 - 📚 [Men in the Sun, by Ghassan Kanafani (1963)](https://www.goodreads.com/book/show/3429641)
 
