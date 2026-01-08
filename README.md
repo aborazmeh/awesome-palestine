@@ -86,6 +86,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### History
 
+- 📚 [One Day, Everyone Will Have Always Been Against This, by Omar El Akkad (2025)](https://www.goodreads.com/book/show/213871151)
 - 📚 [The Hundred Years' War on Palestine: A History of Settler-Colonial Conquest and Resistance, 1917-2017, by Rashid Khalidi (2020)](https://www.goodreads.com/book/show/41812831)
 - 📚 [Palestine: A Four Thousand Year History, by Nur Masalha (2018)](https://www.goodreads.com/en/book/show/36645450)
 - 📚 [The Ethnic Cleansing of Palestine, by Ilan Pappé (2006)](https://www.goodreads.com/book/show/57540)
