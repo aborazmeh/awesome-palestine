@@ -292,6 +292,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/Zain-ul-din/awesome-palestine-apis)
 - 🌐 [Palestine Datasets by TFP](https://data.techforpalestine.org)
+- 🌐 [Showdown, a registry of films and TV series recommended for boycott, with 45 international law documents in plain language and 61 sourced explainers](https://showdown.group/)
 
 ## Contributors
 
